@@ -2,7 +2,7 @@
 
 Jakich silników używać na proxy? Oto one:
 
-- Bungeecord - Podstawowy silnik proxy. Nie zaleca się go używać ze względu na liczne nie załatane luki w bibliotekach, które bungeecord wykorzystuje. 
+- [BungeeCord](https://ci.md-5.net/job/BungeeCord/) - Podstawowy silnik proxy. Nie zaleca się go używać ze względu na liczne nie załatane luki w bibliotekach, które bungeecord wykorzystuje. 
 
 
 - [Waterfall](https://papermc.io/downloads#Waterfall) - Fork bungeecorda, naprawia on wiele luk z bungeecorda oraz optymalizuje jego działanie.
