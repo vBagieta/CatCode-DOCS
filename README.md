@@ -18,3 +18,7 @@
    - Silnik na Lobby
 
    - Silnik na Tryb
+
+- Spolszczenia popularnych Pluginów
+
+- Czego warto unikać
