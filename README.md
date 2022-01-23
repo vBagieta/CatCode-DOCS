@@ -1,4 +1,5 @@
 
+
 # Minecraft Poradniki
 # Spis treści:
 
@@ -40,4 +41,6 @@
 
 - [kamipl818](https://github.com/kamipl818/) DC: kamipl#7586
 
-- [Kvbusiek](https://github.com/Kvbusiek) DC: vKvbusiek_#0001
+- [Kvbusiek](https://github.com/Kvbusiek/) DC: vKvbusiek_#0001
+
+- [Ozander16](https://github.com/Ozander16/) DC: 
