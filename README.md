@@ -2,7 +2,7 @@
 
 # Minecraft Poradniki
 
- - Potrzebujesz pomocy z serwera minecraft? Ablo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz 
+ - Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz 
 rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
 # Pluginy
