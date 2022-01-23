@@ -33,7 +33,7 @@
 
 - Czego warto unikać
 
-- Propozycje do Poradnika [*klik*](https://github.com/vBagieta/Minecraft/
+- Propozycje do Poradnika [*klik*](https://github.com/vBagieta/Minecraft/issues)
 
 # Nasz Team
 
