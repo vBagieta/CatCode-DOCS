@@ -1,3 +1,4 @@
+
 # Minecraft Poradniki
 # Spis treści:
 
@@ -38,3 +39,5 @@
 - [vBagieta](https://github.com/vBagieta/) DC: vBagieta#0786
 
 - [kamipl](https://github.com/kamip/) DC: kamipl#7586
+
+- [vKvbusiek_](https://github.com/vKvbusiek_) DC: vKvbusiek_#0001
