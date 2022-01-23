@@ -1,19 +1,18 @@
 
 
 # Minecraft Poradniki
-# Spis treści:
 
- - Pluginy:
+# Pluginy
 
-   - Pluginy na Proxy [*klik*](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_proxy.md) 
+ - Pluginy na Proxy [*klik*](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_proxy.md) 
 
-   - Pluginy na Lobby
+ - Pluginy na Lobby
 
-   - Popularne Pluginy, które warto poznać 
+ - Popularne Pluginy, które warto poznać 
 
-   - Pluginy na ochronę serwera
+ - Pluginy na ochronę serwera
 
-       - Poradniki popularnych Pluginów 
+   - Poradniki popularnych Pluginów 
 
 - Silniki:
 
