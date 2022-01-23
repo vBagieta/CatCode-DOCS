@@ -30,3 +30,5 @@
 - Spolszczenia popularnych Pluginów
 
 - Czego warto unikać
+
+- Propozycje do Poradnika *klik*
