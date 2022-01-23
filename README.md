@@ -31,4 +31,4 @@
 
 - Czego warto unikać
 
-- Propozycje do Poradnika *klik*
+- Propozycje do Poradnika [*klik*](https://github.com/vBagieta/Minecraft/issues/)
