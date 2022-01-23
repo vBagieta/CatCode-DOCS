@@ -1,6 +1,7 @@
 # Silniki na Proxy
 
-Jakich silników używać na proxy? Oto one:
+Silników na Proxy jest masę, jeżeli nie wiesz który wybrać, zobacz na nasze propozycje poniżej:
+*HexaCorda, Travertine oraz inne forki zostały wykluczone ze wzegldu na archaiczność oraz to, ze zostały wyparte przez te najnowsze.*
 
 - [BungeeCord](https://ci.md-5.net/job/BungeeCord/) - Podstawowy silnik proxy. Nie zaleca się go używać ze względu na liczne nie załatane luki w bibliotekach, które bungeecord wykorzystuje. 
 
@@ -12,6 +13,9 @@ Jakich silników używać na proxy? Oto one:
 
 
 - [Velocity](https://papermc.io/downloada#Velocity) - Wydane przez twórcę Waterfalla, jednak jest ono pisane na nowo. Optymalizacja jest znacznie wyższa niż Waterfalla, przez co Proxy działa lepiej. Niestety pluginy z Bungeecorda *oraz jego forków* nie zadziałają na tym silniku. Obecnie Velocity króluje wśród darmowych silników.
+
+
+- [EyfenCord](https://safemc.pl/) - Płatny, ale warty polecenia fork Waterfalla. Proxy posiada to Anti-Bota, Anti-Crasha oraz Captche, aby zweryfikować czy gracza. 
 
 
 - [Aegis](https://mc-protection.eu/products) - Najbardziej nie polecane Proxy. Kod tego silnika jest kradziony [dowód + przyznanie się](https://www.mc-market.org/threads/572340/), sam twórca dostał bana na [SpigotMC](https://spigotmc.org) oraz [MC Market](https://www.mc-market.org/members/126711/). Anti-Bot działa bardzo źle, a efekt „spadania w pustce” jest celowy, aby pokazać silnik z jak najlepszej strony. Anti-Crash nie działa, sam twórca zależą użyć innego *równiez płatnego* pluginu. Obecnie jest to najgorsze Proxy na rynku i nie zalecamy jego kupna
