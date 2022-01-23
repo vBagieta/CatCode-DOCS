@@ -21,6 +21,12 @@
 
    - Silnik na Tryb
 
+- Hostingi
+
+   - Polecane Hostingi
+
+   - Tworzenie serwera na VPS / Dedyk
+
 - Spolszczenia popularnych Pluginów
 
 - Czego warto unikać
