@@ -35,4 +35,6 @@
 
 # Nasz Team
 
-- [vBagieta](https://github.com/vBagieta/)
+- [vBagieta](https://github.com/vBagieta/) DISCORD: vBagieta#0786
+
+- [kamipl](https://github.com/kamip/ DISCORD:
