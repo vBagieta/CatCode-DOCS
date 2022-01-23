@@ -19,7 +19,7 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
 # Silniki
 
- - [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silniki_na_proxy.md)
+ - [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md)
 
  - Silnik na Lobby
 
