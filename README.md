@@ -1,20 +1,20 @@
 # Minecraft Poradniki
 # Spis treści:
 
- • Pluginy:
+ - Pluginy:
 
-   • Pluginy na Proxy
+   - Pluginy na Proxy
 
-   • Pluginy na Lobby
+   - Pluginy na Lobby
 
-   • Popularne Pluginy, które warto poznać 
+   - Popularne Pluginy, które warto poznać 
 
-   • Pluginy na ochronę serwera
+   - Pluginy na ochronę serwera
 
-• Silniki:
+- Silniki:
 
-   • Silnik na Proxy
+   - Silnik na Proxy
 
-   • Silnik na Lobby
+   - Silnik na Lobby
 
-   • Silnik na Tryb
+   - Silnik na Tryb
