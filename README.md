@@ -38,6 +38,6 @@
 
 - [vBagieta](https://github.com/vBagieta/) DC: vBagieta#0786
 
-- [kamipl](https://github.com/kamip/) DC: kamipl#7586
+- [kamipl818](https://github.com/kamipl818/) DC: kamipl#7586
 
 - [Kvbusiek](https://github.com/Kvbusiek) DC: vKvbusiek_#0001
