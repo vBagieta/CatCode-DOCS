@@ -5,7 +5,7 @@
 
  - Pluginy:
 
-   - Pluginy na Proxy [*klik*](https://github.com/vBagieta/Minecraft/Pluginy/Pluginy_na_proxy.md) 
+   - Pluginy na Proxy [*klik*](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_proxy.md) 
 
    - Pluginy na Lobby
 
