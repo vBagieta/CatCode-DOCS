@@ -43,7 +43,7 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
 - Czego warto unikać
 
-- Propozycje do Poradnika [*klik*](https://github.com/vBagieta/Minecraft/issues)
+- [Propozycje do Poradnika](https://github.com/vBagieta/Minecraft/issues)
 
 # Team
 
