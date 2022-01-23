@@ -1,7 +1,7 @@
 # Silniki na Proxy
 
 Silników na Proxy jest masę, jeżeli nie wiesz który wybrać, zobacz na nasze propozycje poniżej:
-*HexaCorda, Travertine oraz inne forki zostały wykluczone ze wzegldu na archaiczność oraz to, ze zostały wyparte przez te najnowsze.*
+
 
 - [BungeeCord](https://ci.md-5.net/job/BungeeCord/) - Podstawowy silnik proxy. Nie zaleca się go używać ze względu na liczne nie załatane luki w bibliotekach, które bungeecord wykorzystuje. 
 
@@ -19,3 +19,5 @@ Silników na Proxy jest masę, jeżeli nie wiesz który wybrać, zobacz na nasze
 
 
 - [Aegis](https://mc-protection.eu/products) - Najbardziej nie polecane Proxy. Kod tego silnika jest kradziony [dowód + przyznanie się](https://www.mc-market.org/threads/572340/), sam twórca dostał bana na [SpigotMC](https://spigotmc.org) oraz [MC Market](https://www.mc-market.org/members/126711/). Anti-Bot działa bardzo źle, a efekt „spadania w pustce” jest celowy, aby pokazać silnik z jak najlepszej strony. Anti-Crash nie działa, sam twórca zależą użyć innego *równiez płatnego* pluginu. Obecnie jest to najgorsze Proxy na rynku i nie zalecamy jego kupna
+
+*HexaCorda, Travertine oraz inne forki zostały wykluczone ze wzegldu na archaiczność oraz to, ze zostały wyparte przez te najnowsze.
