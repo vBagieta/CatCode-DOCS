@@ -2,9 +2,12 @@
 
 # Minecraft Poradniki
 
+ - Potrzebujesz pomocy z serwera minecraft? Ablo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz 
+rozwiązanie na twój problem. Wystarczy się rozejrzec!
+
 # Pluginy
 
- - Pluginy na Proxy [*klik*](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_proxy.md) 
+ - Pluginy na Proxy 
 
  - Pluginy na Lobby
 
@@ -14,19 +17,27 @@
 
    - Poradniki popularnych Pluginów 
 
-- Silniki:
+# Silniki
 
-   - Silnik na Proxy
+ - Silnik na Proxy
 
-   - Silnik na Lobby
+ - Silnik na Lobby
 
-   - Silnik na Tryb
+ - Silnik na Tryb
 
-- Hostingi
+# Hostingi
 
-   - Polecane Hostingi
+ - Polecane Hostingi
 
-   - Tworzenie serwera na VPS / Dedyk
+ - Hostingi Serwerow
+
+ - Hostingi VPS/DEDYKOW
+
+ - Hostingi Domen
+
+# Poradniki
+
+ - Tworzenie serwera na VPS/DEDYKU
 
 - Spolszczenia popularnych Pluginów
 
@@ -34,7 +45,7 @@
 
 - Propozycje do Poradnika [*klik*](https://github.com/vBagieta/Minecraft/issues)
 
-# Nasz Team
+# Team
 
 - [vBagieta](https://github.com/vBagieta/) DC: vBagieta#0786
 
