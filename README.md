@@ -10,7 +10,7 @@
 - [Pluginy na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
 - [Pluginy na Lobby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md)
 
-- [Pluginy na Popularne Tryby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md) <- Todo
+- [Pluginy na Popularne Tryby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md)
 
 - [Popularne Pluginy, które warto poznać]() <- Todo
 
