@@ -2,7 +2,7 @@
 
 ## Spis Treści:
 - [LuckPermsBungee](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#luckpermsbungee---menad%C5%BCer-globalnych-permisji)
-  - [Podpinanie bazy danych]()
+  - [Podpinanie bazy danych](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#jak-podpi%C4%85%C4%87-baze-danych-w-luckpermsie)
 - [SparkBungee](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#sparkbungee---kontrola-dzia%C5%82ania-serwera-proxy)
 
 - [PlayerBalancer](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#playerbalancer---balansuj-graczy-pomi%C4%99dzy-serwerami)
