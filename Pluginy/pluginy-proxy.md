@@ -12,7 +12,7 @@
   - [Permisje PlayerBalancer](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#permisje-pluginu-player-balancer)
 
 - [BMsg]()
-  - [Permisje BMsg]()
+  - [Permisje BMsg](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#permisje-pluginu-bmsg)
 
 ## Pluginy:
 
@@ -76,6 +76,7 @@ Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac kome
 BMsg to plugin dodający wiadomośći prywatne, system zgłoszeń /helpop, tryb "detektywa", czat administarcji oraz Alertów na całe Proxy.
 
 Tłumaczenie znajdziesz [tutaj]()
+
 ![HelPOP](https://i.imgur.com/u9ge3hL.png)
 
 ### Permisje pluginu BMsg
