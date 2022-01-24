@@ -5,6 +5,8 @@
 
 - [SpongeForge](https://www.spongepowered.org/downloads/) - Silnik wspierający mody pisane pod Forge'a oraz Pluginy napisane w SpongeAPI. Wtyczki do tego silnika znajdziesz [tutaj](https://forums.spongepowered.org/c/plugins/plugin-releases/24).
 
+Uwaga! Jeśli plugin korzysta z MIXIN musi on znajdować się w katalogu `mods`.
+
 
 - [Fabric](https://fabricmc.net/use/server/) - Silnik wspierający mody pisane pod Fabric'a, zaletą tego oprogramowania jest fakt, że łatwo go zoptymalizować przez co gra na słabszych komputerach stanie sie przyjemnijesza.
 
