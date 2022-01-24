@@ -4,6 +4,7 @@
 - [Anti-Crash](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
 - [Anti-Bot](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
 - [Anti-DDoS](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
+- [Anti-VPN](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-vpn)
 
 # Anti-Crash
 **UWAGA!** Jeżeli masz serwer na najnowszej wersji, to nie będziesz potrzebował zabezpieczenia typu Anti-Crash. Paper naprawia w większości znane błędy pozwalające crashować serwer, a każdy nowy naprawia w chwilę.
@@ -28,4 +29,5 @@ Każdy hosting używający dedyków od [OVH](https://ovhcloud.com) posiada najle
 
 # Anti-VPN
 
-- [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/) to najlepszy darmowy Anti-VPN, jest bardzo zaawansowany, darmowy oraz posiada developerskie API. Potrafi on wskazać miasto dostawcy Internetu.
+[KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/) to najlepszy darmowy Anti-VPN,
+jest bardzo zaawansowany, darmowy oraz posiada developerskie API. Potrafi on wskazać miasto dostawcy Internetu.
