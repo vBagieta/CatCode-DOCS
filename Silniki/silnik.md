@@ -5,4 +5,4 @@ Jako iż wersja na Lobby nie musi być najwyższa, serwer będzie działał lepi
 
 - [Spigot](https://serverjars.com/more/spigot) - Znacznie wydajniejszy oraz zabezpieczony silnik od Bukkita. Dodaje on nowy plik `spigot.yml`, w którym możemy ustawić znacznie więcej rzeczy niż w `bukkit.yml`! Spigot jest dobrym silnikiem, ale bardziej polecamy użycia Papera.
 
--[Paper](https://papermc.io) - Jest to Fork Spigota, dodaje on nowy plik `paper.yml`. Silnik ten został zoptymalizowany bardziej niż Spigot. 
+- [Paper](https://papermc.io) - Jest to Fork Spigota, dodaje on nowy plik `paper.yml`. Silnik ten został zoptymalizowany bardziej niż Spigot. 
