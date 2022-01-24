@@ -11,6 +11,8 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
  - Pluginy na Lobby
 
+ - Pluginy na Popularne Tryby
+
  - Popularne Pluginy, które warto poznać 
 
  - Pluginy na ochronę serwera
