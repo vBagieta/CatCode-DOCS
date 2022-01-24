@@ -1,5 +1,5 @@
-# Spolszczenie Pluginu [DeathMessages]()
-## Spolszczenie zostało zrobione przez [Pan123](https://www.spigotmc.org/members/pan123.1232517/)
+# Spolszczenie Pluginu [DeathMessages](https://www.spigotmc.org/resources/deathmessages.3789/) przez [Pan123](https://www.spigotmc.org/members/pan123.1232517/)\\
+
 
 ```
 Natural-Cause:
