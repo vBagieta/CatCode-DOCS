@@ -7,6 +7,7 @@
 
 - [PlayerBalancer](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#playerbalancer---balansuj-graczy-pomi%C4%99dzy-serwerami)
   - [Zasady przełączania graczy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#gracze-mog%C4%85-by%C4%87-prze%C5%82%C4%85czani-pomi%C4%99dzy-serwerami-za-pomoc%C4%85-zasad)
+  - [BMsg]()
 
 ## Pluginy:
 
@@ -49,3 +50,5 @@ Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac kome
   - `PROGRESSIVE_LOWEST` - Pierwszy serwer z najmniejszą ilością osób.
   - `PROGRESSIVE_FILLER` - Pierwszy serwer z największą ilośćią osób, ale nie pełny.
   - `EXTERNAL` - Przezuca gracza według innego pluginu.
+
+# BMsg - Globalne wiadomości prywatne, i więcej!
