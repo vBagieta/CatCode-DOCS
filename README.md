@@ -20,6 +20,8 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
  - Pluginy na ochronę serwera
 
    - Poradniki popularnych Pluginów 
+   
+   - - [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/poradnik-spolszczenia.md)
 
 # Silniki
 
@@ -45,9 +47,7 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
  - Tworzenie serwera na VPS/DEDYKU
 
-- [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/poradnik-spolszczenia.md)
-
-- Czego warto unikać
+- Czego warto unikać?
 
 - [Propozycje do Poradnika](https://github.com/vBagieta/Minecraft/issues)
 
