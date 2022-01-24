@@ -115,16 +115,16 @@ W dobach dzisijeszego community Minecrafta zdarzają się osoby które wykorzyst
 # Bungee Staff - Zacznij rozmawiać ze swoją administracją
 Aby Administarcja lepiej się komunikowała, nie zwłocznie zobacz na tą propozycje!
 
-Tą wtyczke znajdziesz oraz zainstalujesz [tutaj](https://www.spigotmc.org/resources/%E2%AD%90%EF%B8%8F-bungeestaff-%E2%AD%90%EF%B8%8F-%E2%9C%85-discord-api-%E2%9C%85-infinite-chats-and-commands-%E2%9C%85-bungee-moderation-%E2%9C%85-1-7-1-18-%E2%9C%85.95425/)! Spolszczenie znajdziesz [tutaj]()!
+Tą wtyczke znajdziesz oraz zainstalujesz [tutaj](https://www.spigotmc.org/resources/%E2%AD%90%EF%B8%8F-bungeestaff-%E2%AD%90%EF%B8%8F-%E2%9C%85-discord-api-%E2%9C%85-infinite-chats-and-commands-%E2%9C%85-bungee-moderation-%E2%9C%85-1-7-1-18-%E2%9C%85.95425/)! Spolszczenie znajdziesz [tutaj](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-bungeestaff.md)!
 
 ### Komendy i Permisje pluginu Bungee Staff
-- /bstaffs reload - Przeładuj konfiguracje. (bstaffs.admin)
-- /bstaffs version - Sprawdź wersje pluginu. - (bstaffs.admin)
-- /search <player> - Znajdz gracza na sieci. - (bstaffs.search)
-- /toggle <komenda> - Wlacz/wylacz komenda. - (wlasna permisja)
-- /togglechat <nazwa> - Wlacza/wylcza czat. - (wlasna permsija)
-- /stafflist - Pokazuje Administracje online. - (bstaffs.list)
-- /skick <serwer> - Wyrzuć wszytkich graczy bez specjalnej permisji. - (bstaffs.serverkick lub bstaffs.serverkick.bypass)
-- /svrestart - Zrestartuj serwer, przełącz wszytkich graczy do Limbo i połącz ich spowrotem, gdy serwer się uruchomi.
-- /serverlist - Zobacz liczbe graczy oraz serwery. (bstaffs.serverlist)
-- /clientstatus - Sprawdź statsus gracza na serwerze. (bstaffs.clientstatus)
+- `/bstaffs reload` - Przeładuj konfiguracje. (bstaffs.admin)
+- `/bstaffs version` - Sprawdź wersje pluginu. - (bstaffs.admin)
+- `/search <player>` - Znajdz gracza na sieci. - (bstaffs.search)
+- `/toggle <komenda>` - Wlacz/wylacz komenda. - (wlasna permisja)
+- `/togglechat <nazwa>` - Wlacza/wylcza czat. - (wlasna permsija)
+- `/stafflist` - Pokazuje Administracje online. - (bstaffs.list)
+- `/skick <serwer>` - Wyrzuć wszytkich graczy bez specjalnej permisji. - (bstaffs.serverkick lub bstaffs.serverkick.bypass)
+- `/svrestart` - Zrestartuj serwer, przełącz wszytkich graczy do Limbo i połącz ich spowrotem, gdy serwer się uruchomi.
+- `/serverlist` - Zobacz liczbe graczy oraz serwery. (bstaffs.serverlist)
+- `/clientstatus` - Sprawdź statsus gracza na serwerze. (bstaffs.clientstatus)
