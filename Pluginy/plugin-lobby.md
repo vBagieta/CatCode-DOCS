@@ -2,7 +2,7 @@
 
 ## Spis Treści:
 - [Super Lobby Deluxe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#supper-lobby-deluxe----zr%C3%B3b-swoje-lobby-lepsze)
-  - [Permisje pluginu Super Lobby Deluxe]()
+  - [Permisje pluginu Super Lobby Deluxe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisje-pluginu-super-lobby-deluxe)
 
 # Supper Lobby Deluxe -  Zrób swoje Lobby lepsze!
 Plugin [Super Lobby Deluxe]() pozwala na znaczne ulepszenie Lobby serwera. 
