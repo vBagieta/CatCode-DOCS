@@ -12,7 +12,7 @@
 
 - [Pluginy na Popularne Tryby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md)
 
-- [Popularne Pluginy, które warto poznać](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-wart-poznac.md)
+- [Pluginy, które warto poznać](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-wart-poznac.md)
 
 - [Pluginy na ochronę serwera](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md)
 
