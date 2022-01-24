@@ -26,9 +26,8 @@
 
 - [Silnik do gry](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
 
-- [Silnik na Modyfikacje](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
+- [Silnik na Modyfikacje oraz Pluginy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
 
-- [Silnik na Modyfikacje + Pluginy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody-pluginy.md)
 
 # Hostingi
 
