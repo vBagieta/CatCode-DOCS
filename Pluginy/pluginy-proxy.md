@@ -16,18 +16,14 @@ Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go
 ### Jak podpiąć Baze danych w LuckPermsie
 Przejdź do katalogu głównego serwera, a następnie wyszukaj folder `Plugins`. Wejdź do katalogu Pluginu LuckPerms i otwórz plik `config.yml`.
 Zlokalizuj ten fragment: i zacznij go edytować.
-
-`storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty, możesz użyc: MySQL, MariaDB, PostgreSQL, MongoDB`
-
-`data:`
-
-  `address: mysql.twojserwer.pl:3306 #Host Bazy Danych Uwaga! Host zawsze musisz zapisać jako host:port_bazy`
-
-  `database: xyz #Nazwa Bazy danych`
-
-  `username: ROOT #Nazwa użytkownika`
-  
-  `password: 'HasloMaslo' #Haslo logowania bazy danych`
+```
+storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty, możesz użyc: MySQL, MariaDB, PostgreSQL, MongoDB
+data:
+  address: mysql.twojserwer.pl:3306 #Host Bazy Danych Uwaga! Host zawsze musisz zapisać jako host:port_bazy`
+  database: xyz #Nazwa Bazy danych
+  username: ROOT #Nazwa użytkownika
+  password: 'HasloMaslo' #Haslo logowania bazy danych
+  ```
   
 # SparkBungee - Kontrola działania serwera Proxy
 **Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, Plugin pobierzesz [tutaj](https://spark.lucko.me/download). 
