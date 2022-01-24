@@ -1,11 +1,12 @@
 # Minecraft Poradniki
 
-- Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie
-  trafiłes, u nas znajdziesz rozwiązanie na twój problem. Wystarczy się rozejrzec!
+Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
-### Aktualnie pracujemy nad rozwojem tego poradnika!
+**Uwaga!** Projekt aktualnie jest ulepszny! Na bieżąco dodajemy nowe dokumentacjie plugiów! Prosimy o wyrozumiałość.
 
-# Pluginy [85%]
+Jeżeli uważasz że coś jest źle i powinno zostać poprawione kliknij [tutaj](https://github.com/vBagieta/Minecraft/issues) lub [tu](https://github.com/vBagieta/Minecraft/pulls).
+
+# Pluginy
 
 - [Pluginy na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
 - [Pluginy na Lobby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md)
@@ -20,7 +21,7 @@
 
     - [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenia.md)
 
-# Silniki [100%]
+# Silniki
 
 - [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md)
 
@@ -29,11 +30,11 @@
 - [Silnik na Modyfikacje oraz Pluginy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
 
 
-# Hostingi [100%]
+# Hostingi
 
 - [Polecane Hostingi](https://github.com/vBagieta/Minecraft/blob/main/Hostingi/polecane_hostingi.md)
 
-# Poradniki [100%]
+# Poradniki
 
 - [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
 
