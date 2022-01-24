@@ -4,7 +4,8 @@
 
 # Pluginy na Skyblocka
 
-- [Bentobox](https://github.com/bentoboxworld) - Za pomocą bentoboxa możesz stworzyć, międzyinnymi skyblocka. Plugin ten ma dużo dodatków, dlatego możesz urozmaicić swój tryb o np. Różne zadania dla graczy. 
+# Bentobox
+Za pomocą bentoboxa możesz stworzyć, międzyinnymi skyblocka. Plugin ten ma dużo dodatków, dlatego możesz urozmaicić swój tryb o np. Różne zadania dla graczy. 
     
   Przykładowe paczki trybów z dodatkami jakie możesz zrobić za pomocą Bentoboxa:
   
