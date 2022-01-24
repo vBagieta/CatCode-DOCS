@@ -18,9 +18,11 @@ Przejdź do katalogu głównego serwera, a następnie wyszukaj folder `Plugins`.
 Zlokalizuj ten fragment: i zacznij go edytować.
 ```
 storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty. (MySQL, MariaDB, PostgreSQL, MongoDB)
+
 data:
-  address: mysql.twojserwer.pl:3306 #Host Bazy Danych Uwaga! Host zawsze musisz zapisać jako host:port_bazy`
+  address: mysql.twojserwer.pl:3306 #Host Bazy Danych, zawsze musisz zapisać jako host:port_bazy
   database: xyz #Nazwa Bazy danych
+  
   username: ROOT #Nazwa użytkownika
   password: 'HasloMaslo' #Haslo logowania bazy danych
   ```
