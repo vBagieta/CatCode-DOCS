@@ -74,3 +74,9 @@ Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac kome
  - `playerbalancer.bypass` - gracz z tą permisją nie może byc przenoszony na inny serwer. Zalecamy ustawienie tej Permisji na `false`.
 
 # BMsg - Globalne wiadomości prywatne, i więcej!
+BMsg to plugin dodający wiadomośći prywatne, system zgłoszeń /helpop, tryb "detektywa", czat administarcji oraz Alertów na całe Proxy.
+
+Tłumaczenie znajdziesz [tutaj]()
+
+![HelPOP](https://i.imgur.com/u9ge3hL.png)
+
