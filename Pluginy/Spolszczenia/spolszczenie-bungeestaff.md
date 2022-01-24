@@ -1,7 +1,7 @@
 # Spolszczenie pluginu [Bungee Staff](https://www.spigotmc.org/resources/%E2%AD%90%EF%B8%8F-bungeestaff-%E2%AD%90%EF%B8%8F-%E2%9C%85-discord-api-%E2%9C%85-infinite-chats-and-commands-%E2%9C%85-bungee-moderation-%E2%9C%85-1-7-1-18-%E2%9C%85.95425/) przez [vBagieta](https://github.com/vBagieta)
 
-```
 
+```
 DEFAULT:
   PREFIX: '&f&lSTAFF> '
   NO-PERMISSIONS: '&cNie ma takiej komendy.'
