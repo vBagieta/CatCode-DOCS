@@ -1,3 +1,5 @@
+# Spolszczenie [GadgetsMenu Premium](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-18-1-premium.62831/) przez [vBagieta](https://github.com/vBagieta)
+
 ```
 Prefix: ''
 GUI-Menus:
