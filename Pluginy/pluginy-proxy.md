@@ -5,15 +5,15 @@
   - [Podpinanie bazy danych](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#jak-podpi%C4%85%C4%87-baze-danych-w-luckpermsie)
 
 - [SparkBungee](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#sparkbungee---kontrola-dzia%C5%82ania-serwera-proxy)
-  - Permisje Sparka
+  - [Permisje Sparka]()
 
 - [PlayerBalancer](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#playerbalancer---balansuj-graczy-pomi%C4%99dzy-serwerami)
   - [Zasady przełączania graczy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#gracze-mog%C4%85-by%C4%87-prze%C5%82%C4%85czani-pomi%C4%99dzy-serwerami-za-pomoc%C4%85-zasad)
-  - Permisje PlayerBalancer
+  - [Permisje PlayerBalancer](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#permisje-pluginu-player-balancer)
 
 - [BMsg]()
-  - Funkcje
-  - Permisje BMsg
+  - [Funkcje]()
+  - [Permisje BMsg]()
 
 ## Pluginy:
 
