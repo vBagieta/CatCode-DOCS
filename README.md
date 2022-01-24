@@ -12,7 +12,7 @@
 
 - [Pluginy na Popularne Tryby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md)
 
-- [Popularne Pluginy, które warto poznać]() <- Todo
+- [Popularne Pluginy, które warto poznać](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-wart-poznac.md)
 
 - [Pluginy na ochronę serwera](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md)
 
@@ -38,7 +38,7 @@
 
 - [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
 
-- [Czego warto unikać?]()
+- [Czego warto unikać?]() <- Todo
 
 - [Propozycje do Poradnika](https://github.com/vBagieta/Minecraft/issues)
   - [Zmiany w kodzie](https://github.com/vBagieta/Minecraft/pulls)
