@@ -41,7 +41,7 @@ Zlokalizuj ten fragment: i zacznij go edytować.
 # PlayerBalancer - Balansuj graczami pomiędzy serwerami!
 
 Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac komendy typu /lobby? A może chcesz aby graczy po wyrzuceniu z podserwera nie byli wyrzucani z sieci? Dobrze trafiłeś! To wszytko pozwala plugin PlayerBalancer! Dodatkowo wspiera Pluginy na [Party](https://www.spigotmc.org/resources/party-and-friends-for-bungeecord-supports-clients-from-1-7-to-1-9.9531/) oraz [Znajomych](https://www.spigotmc.org/resources/ultimate-friends.3964/)! Plugin pobierzesz [tutaj!](https://www.spigotmc.org/resources/playerbalancer.55011/updates)
-- Gracze mogą być przerzucani po zasadach:
+### Gracze mogą być przełączani pomiędzy serwerami za pomocą zasad:
   - `NONE` - Gracz zostanie przełączony do serwera z którym się łączył.
   - `RANDOM` - Losowy serwer.
   - `RANDOM_LOWEST` - Losowy serwer z najmniejszą ilością graczy.
