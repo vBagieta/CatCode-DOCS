@@ -50,6 +50,7 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 - Czego warto unikać?
 
 - [Propozycje do Poradnika](https://github.com/vBagieta/Minecraft/issues)
+  - [Zmiany w kodzie](https://github.com/vBagieta/Minecraft/pulls)
 
 # Team
 
