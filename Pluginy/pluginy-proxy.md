@@ -9,7 +9,7 @@
 
 ## Pluginy:
 # [LuckPermsBungee](https://luckperms.net/download)
-- Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać komend (Permisji do pluginów) z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. 
+### Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać komend (Permisji do pluginów) z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. 
 
 ### Jak podpiąć Baze danych w LuckPermsie
 Przejdź do katalogu głównego serwera, a następnie wyszukaj folder `Plugins`. Wejdź do katalogu Pluginu LuckPerms i otwórz plik `config.yml`.
@@ -28,5 +28,5 @@ Zlokalizuj ten fragment: i zacznij go edytować
   `password: 'HasloMaslo' #Haslo logowania bazy danych`
   
 # [SparkBungee](https://spark.lucko.me/download)
-Zzz...
+### Zzz...
 
