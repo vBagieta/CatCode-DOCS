@@ -41,7 +41,7 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
  - Tworzenie serwera na VPS/DEDYKU
 
-- Spolszczenia popularnych Pluginów
+- [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/poradnik-spolszczenia.md)
 
 - Czego warto unikać
 
