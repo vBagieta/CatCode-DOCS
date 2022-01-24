@@ -17,7 +17,7 @@
 - [Anti-Boty](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#anti-bot)
   - [Darmowe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#darmowe)
   - [Płatne](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#p%C5%82atne)
-- [Czat Administracji](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#anti-bot)
+- [Czat Administracji](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#bungee-staff---zacznij-rozmawia%C4%87-ze-swoj%C4%85-administracj%C4%85)
   - [Komedny i permisje](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#komendy-i-permisje-pluginu-bungee-staff)
 
 ## Pluginy:
