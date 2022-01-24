@@ -7,7 +7,7 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
 # Pluginy
 
- - Pluginy na Proxy 
+ - [Pluginy na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
 
  - Pluginy na Lobby
 
