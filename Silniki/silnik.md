@@ -1,4 +1,4 @@
-# Silniki na Lobby i Tryby
+# Silniki do gry
 
 Silników w Minecraftcie jest dużo. Jeżeli nie wiesz który wybrać na swój serwer, zobacz nasze propozycje poniżej.
 
