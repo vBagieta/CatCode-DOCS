@@ -1,19 +1,10 @@
 # Pluginy na Popularne tryby
 ## Spis treści:
-- [BentoBox]()
+- [BentoBox](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md#bentobox)
+  - [SkyBlock]()
+  - [OneBlock]()
+  - [CaveBlock]()
+## SkyBlock
+Za pomocą BentoBox, oraz dodatków do niego możesz stworzyć najlepszy tryb SKyBlock!
 
-# Pluginy na Skyblocka
-
-# Bentobox
-Za pomocą bentoboxa możesz stworzyć, międzyinnymi skyblocka. Plugin ten ma dużo dodatków, dlatego możesz urozmaicić swój tryb o np. Różne zadania dla graczy. 
-    
-  Przykładowe paczki trybów z dodatkami jakie możesz zrobić za pomocą Bentoboxa:
-  
-  - [Skyblock](https://download.bentobox.world/api/generate?downloads=%5B%22BSkyBlock%22,%22Challenges%22,%22Level%22,%22Warps%22,%22ControlPanel%22,%22DimensionalTrees%22,%22Biomes%22,%22Limits%22%5D)
-  
-  - [Oneblock](https://download.bentobox.world/api/generate?downloads=%5B%22AOneBlock%22,%22Warps%22,%22Likes%22,%22Chat%22%5D)
-  
-  - [Caveblock](https://download.bentobox.world/api/generate?downloads=%5B%22CaveBlock%22,%22Challenges%22,%22Level%22,%22Warps%22,%22ControlPanel%22,%22DimensionalTrees%22,%22Biomes%22,%22Limits%22%5D) 
-  
-  By dostosować własną paczkę Bentobox kliknij [tutaj](https://download.bentobox.world/custom)
 
