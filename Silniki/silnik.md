@@ -1,21 +1,34 @@
 # Silniki na Lobby i Tryby
-Silników w Minecarft jest dużo. Jeżeli nie wiesz który wybrać na swój serwer, zobacz nasze propozycje poniżej.
 
-**Uwaga!** Przed pobraniem silnika, upewnij się czy załatał on exploit biblioteki **[log4j](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)**!
+Silników w Minecraftcie jest dużo. Jeżeli nie wiesz który wybrać na swój serwer, zobacz nasze propozycje poniżej.
 
-- [Bukkit](https://serverjars.com/more/bukkit) - Jest podstawowym silnikiem który umożliwia instalacje pluginów. Nie zaleca sie go użycia, ponieważ jego forki są znacznie wydajniejsze oraz optymalniejsze.
+**Uwaga!** Przed pobraniem silnika, upewnij się czy załatał on exploit
+biblioteki **[Log4J](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)**!
 
-- [Spigot](https://serverjars.com/more/spigot) - Znacznie wydajniejszy oraz zabezpieczony silnik od Bukkita. Dodaje on nowy plik `spigot.yml`, w którym możemy ustawić znacznie więcej rzeczy niż w `bukkit.yml`! Spigot jest dobrym silnikiem, ale bardziej polecamy użycia Papera.
+- [Bukkit](https://bukkit.org) - Jest podstawowym silnikiem który umożliwia instalacje pluginów. Nie zaleca sie go
+  użycia, ponieważ jest niestabilny i jest używany tylko jako podstawa API do Spigota. Jego forki są dużo lepsze
 
-- [Paper](https://papermc.io) - Jest to Fork Spigota, dodaje on nowy plik `paper.yml`. Silnik ten został zoptymalizowany bardziej niż Spigot. 
+- [Spigot](https://spigotmc.org) - Znacznie wydajniejszy oraz zabezpieczony silnik od Bukkita. Dodaje on nowy
+  plik `spigot.yml`, w którym możemy ustawić znacznie więcej rzeczy niż w `bukkit.yml`! Pod serwery publiczne zalecamy
+  użycia Papera.
 
-- [FlamePaper](https://github.com/2lstudios-mc/FlamePaper/releases) - Fork Papera na wersję 1.8.8, który poprawia wydajność, bezpieczeństwo. Wspólnie z silnikem Proxy [FlameCord](https://github.com/2lstudios-mc/FlameCord) tworzy najbezpieczniejsze rozwiązanie.
+- [Paper](https://papermc.io) - Jest to Fork Spigota, dodaje on nowy plik `paper.yml`. Silnik ten został zoptymalizowany
+  bardziej niż Spigot.
 
-- [SportPaper](https://github.com/Electroid/Sportpaper) - Fork Papera 1.8.8, mający na celu wprowadzenie poprawek zabezpieczeń i wydajności.
+- [FlamePaper](https://github.com/2lstudios-mc/FlamePaper/releases) - Fork Papera na wersję 1.8.8, który poprawia
+  wydajność, bezpieczeństwo. Wspólnie z silnikem Proxy [FlameCord](https://github.com/2lstudios-mc/FlameCord) tworzy
+  najbezpieczniejsze rozwiązanie.
 
-- [NachoSpigot](https://github.com/CobbleSword/NachoSpigot) - Fork wielu silników na wersję 1.8.8 łączący ich patche mający na celu wprowadzenie ciekawego gameplay'u, zabezpieczeń oraz wydajności
+- [SportPaper](https://github.com/Electroid/Sportpaper) - Fork Papera 1.8.8, mający na celu wprowadzenie poprawek
+  zabezpieczeń i wydajności.
 
-- [Pufferfish](https://pufferfish.gg) - Pufferfish to jeden z najlepszych silników na wyższe wersje z powodu licznych patchy optymalizujących.
+- [NachoSpigot](https://github.com/CobbleSword/NachoSpigot) - Fork wielu silników na wersję 1.8.8 łączący ich patche
+  mający na celu wprowadzenie ciekawego gameplay'u, zabezpieczeń oraz wydajności
 
-- [Purpur](https://purpurmc.org) - Purpur to jeden z najpopularniejszych forków Papera na wyższe wersje z powodu posiadania patchy Pufferfisha, Airplane'a i swoich - które mają na celu wprowadzić ciekawy gameplay, np. ujeżdzanie delfinów, oraz posiada drobne optymalizacje sieci.
+- [Pufferfish](https://pufferfish.gg) - Pufferfish to jeden z najlepszych silników na wyższe wersje z powodu licznych
+  patchy optymalizujących.
+
+- [Purpur](https://purpurmc.org) - Purpur to jeden z najpopularniejszych forków Papera na wyższe wersje z powodu
+  posiadania patchy Pufferfisha, Airplane'a i swoich - które mają na celu wprowadzić ciekawy gameplay, np. ujeżdzanie
+  delfinów, oraz posiada drobne optymalizacje sieci.
 
