@@ -5,3 +5,13 @@
   - [Permisje pluginu Super Lobby Deluxe]()
 
 # Supper Lobby Deluxe -  Zrób swoje Lobby lepsze!
+Plugin [Super Lobby Deluxe]() pozwala na znaczne ulepszenie Lobby serwera. 
+
+### Permisje pluginu Super Lobby Deluxe
+
+- `superlobby.use` - Nadaje możliwość używania pluginu.
+- `superlobby.admin` - Nadaje możlwiosć używania komend administarcyjnych.
+- `superlobby.staff` - Nadaje możliwość omijania zakazów przez plugin.(Niszczenie bloków, przemieszczanie itemów w eq).
+- `superlobby.menu` - Nadaje możlwiość otweriania Menu.
+- `superlobby.chat.color` - Nadaje możliwość używania kolorów na czacie.
+- `superlobby.chat.magic` - Nadaje możliwość użycia kodu formatującego "Matrix".
