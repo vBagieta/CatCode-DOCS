@@ -5,6 +5,8 @@
  - Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz 
 rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
+### Aktualnie pracujemy nad rozwojem tego poradnika!
+
 # Pluginy
 
  - [Pluginy na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
