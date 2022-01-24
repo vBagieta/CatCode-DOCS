@@ -1,53 +1,45 @@
-
-
 # Minecraft Poradniki
 
- - Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz 
-rozwiązanie na twój problem. Wystarczy się rozejrzec!
+- Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie
+  trafiłes, u nas znajdziesz rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
 ### Aktualnie pracujemy nad rozwojem tego poradnika!
 
 # Pluginy
 
- - [Pluginy na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
+- [Pluginy na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
 
- - Pluginy na Lobby
+- [Pluginy na Lobby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md)
 
- - Pluginy na Popularne Tryby
+- [Pluginy na Popularne Tryby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md)
 
- - Popularne Pluginy, które warto poznać 
+- [Popularne Pluginy, które warto poznać]()
 
- - Pluginy na ochronę serwera
+- [Pluginy na ochronę serwera]()
 
-   - Poradniki popularnych Pluginów 
+    - [Poradniki popularnych Pluginów](https://github.com/vBagieta/Minecraft/tree/main/Poradniki)
 
 # Silniki
 
- - [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md)
+- [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md)
 
- - [Silnik na Lobby/Tryb](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
+- [Silnik na Lobby/Tryb](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
 
- - [Silnik na Modyfikacje](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
+- [Silnik na Modyfikacje](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
 
- - [Silnik na Modyfikacje + Pluginy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody-pluginy.md)
+- [Silnik na Modyfikacje + Pluginy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody-pluginy.md)
 
 # Hostingi
 
- - Polecane Hostingi
-
- - Hostingi Serwerow
-
- - Hostingi VPS/DEDYKOW
-
- - Hostingi Domen
+- [Polecane Hostingi](https://github.com/vBagieta/Minecraft/blob/main/Hostingi/polecane_hostingi.md)
 
 # Poradniki
 
- - Tworzenie serwera na VPS/DEDYKU
+- [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
 
 - [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/poradnik-spolszczenia.md)
 
-- Czego warto unikać
+- [Czego warto unikać]()
 
 - [Propozycje do Poradnika](https://github.com/vBagieta/Minecraft/issues)
 
