@@ -58,6 +58,6 @@ Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac kome
   - `EXTERNAL` - Przezuca gracza według innego pluginu.
 
 ### Permisje pluginu Player Balancer
- - `playerbalancer.bypass` - gracz z tą permisją nie może byc przenoszony na inny serwer. Zalecamy ustawienie tej Permisji każdej grupie na `false`.
+ - `playerbalancer.bypass` - gracz z tą permisją nie może byc przenoszony na inny serwer. Zalecamy ustawienie tej Permisji na `false`.
 
 # BMsg - Globalne wiadomości prywatne, i więcej!
