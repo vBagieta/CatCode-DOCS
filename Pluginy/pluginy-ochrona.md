@@ -25,3 +25,7 @@ Jeżeli twój Hosting nie posiada Anti-DDoS'a lub jest bardzo słaby,
 Zalecamy użycie jednego z najlepszych obecnie Anti-DDos’a [TCPShields](https://tcpshield.com/), który posiada wersje Darmową (idealna do 30 graczy).
 
 Każdy hosting używający dedyków od [OVH](https://ovhcloud.com) posiada najlepszy Anti-DDoS GAME+.
+
+# Anti-VPN
+
+- [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/) to najlepszy darmowy Anti-VPN, jest bardzo zaawansowany, darmowy oraz posiada developerskie API. Potrafi on wskazać miasto dostawcy Internetu.
