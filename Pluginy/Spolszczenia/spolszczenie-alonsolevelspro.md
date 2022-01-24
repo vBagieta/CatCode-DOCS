@@ -1,16 +1,6 @@
-# Spolszczenie pluginu [Alonso Level Pro]() przez [vBagieta](https://github.com/vBagieta)
+# Spolszczenie pluginu [Alonso Levels Pro](https://www.spigotmc.org/resources/%E2%9C%85-alonsolevels-pro-1-8-1-18-%E2%80%A2-add-levels-to-your-network-rewards-mysql-hikaricp-custom-slots.85968/) przez [vBagieta](https://github.com/vBagieta)
 
 ```
-#      _   _                  _                _      ___
-#     /_\ | |___ _ _  ___ ___| |   _____ _____| |___ | _ \_ _ ___
-#    / _ \| / _ \ ' \(_-</ _ \ |__/ -_) V / -_) (_-< |  _/ '_/ _ \
-#   /_/ \_\_\___/_||_/__/\___/____\___|\_/\___|_/__/ |_| |_| \___/
-#          https://www.spigotmc.org/resources/authors/281176/
-#              Support server: alonsoaliaga.com/discord
-#        Subscribe to my Youtube channel: alonsoaliaga.com/play
-#          Subscribe to my Twitch: alonsoaliaga.com/twitch
-# Thanks for purchasing my plugin! If you didn't purchase it then do it!
-#                  Only buyers will receive support.
 Messages:
   No-permission: "&cNie ma takiej komendy."
   Reloaded: "&aSome messages and options have been reloaded. Other may require a restart!"
