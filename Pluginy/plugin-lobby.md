@@ -5,7 +5,7 @@
   - [Permisje pluginu Super Lobby Deluxe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisje-pluginu-super-lobby-deluxe)
 
 # Supper Lobby Deluxe -  Zrób swoje Lobby lepsze!
-Plugin [Super Lobby Deluxe]() pozwala na znaczne ulepszenie Lobby serwera. 
+Plugin [Super Lobby Deluxe]() pozwala na znaczne ulepszenie Lobby serwera. Możesz w nim: Zrobić własny scoreboard, edytować tabliste, dodać wiadomość powitalną, dodać profil gracza, otwierać menu trybów, dodać własny boss-bar i wiele wiele więcej!
 
 ### Permisje pluginu Super Lobby Deluxe
 
