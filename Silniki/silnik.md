@@ -9,7 +9,7 @@ Silników w Minecarft jest dużo. Jeżeli nie wiesz który wybrać na swój serw
 
 - [Paper](https://papermc.io) - Jest to Fork Spigota, dodaje on nowy plik `paper.yml`. Silnik ten został zoptymalizowany bardziej niż Spigot. 
 
-- [FlamePaper](https://github.com/2lstudios-mc/FlamePaper/releases) - Fork Papera na wersję 1.8.8, który poprawia wydajność, bezpieczeństwo. Wspólnie z silnikem Proxy [Flahttps://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.mdmeCord]() tworzy najbezpieczniejsze rozwiązanie. 
+- [FlamePaper](https://github.com/2lstudios-mc/FlamePaper/releases) - Fork Papera na wersję 1.8.8, który poprawia wydajność, bezpieczeństwo. Wspólnie z silnikem Proxy [FlameCord](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md) tworzy najbezpieczniejsze rozwiązanie. 
 
 
 *SIlnik na lobby nie musi być na najnowszą wersje! Użycie wersji 1.8.9 / 1.12.2 / 1.15.2 pozwoli zaoszczędzić zasoby serwera.*
