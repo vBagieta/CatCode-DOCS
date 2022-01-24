@@ -6,13 +6,13 @@
   - [CaveBlock]()
 ## Pluginy:
 
-#BentoBox
+# BentoBox
 Za pomocą BentoBox oraz Addonów możesz zrobić najlepszy tryb rozgrywki!
 
 Wszytkie tryby oraz addony znajdziesz [tutaj](https://download.bentobox.world/)
 
-#BentoBox: SkyBlock
+# BentoBox: SkyBlock
 
-#BentoBox: OneBlock
+# BentoBox: OneBlock
 
-#BentoBox: CaveBlock
+# BentoBox: CaveBlock
