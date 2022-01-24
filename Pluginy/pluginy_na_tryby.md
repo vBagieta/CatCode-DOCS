@@ -1,6 +1,9 @@
 # Pluginy na Popularne tryby
 ## Spis treści:
 - [SkyBlock](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md#Pluginy-na-SkyBlock)
+- [BedWars]()
+- [CaseDrop]()
+
 ## Pluginy:
 
 # Pluginy na SkyBlock
