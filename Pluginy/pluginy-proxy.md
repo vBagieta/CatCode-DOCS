@@ -14,6 +14,10 @@
 - [BMsg](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#bmsg---globalne-wiadomo%C5%9Bci-prywatne-i-wi%C4%99cej)
   - [Permisje BMsg](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#permisje-pluginu-bmsg)
 
+- [Anti-Boty]()
+  - [Darmowe]()
+  - [Płatne]()
+
 ## Pluginy:
 
 # LuckPermsBungee - Menadżer globalnych Permisji
@@ -95,3 +99,12 @@ Tłumaczenie znajdziesz [tutaj]()
 - `bmsg.command.togglemsg` - dodaje możliwość wyłączenia wiadomości prywatnych.
 - `bmsg.command.broadcast` - dodaje możliwość wysyłania alertów na całą sieć. 
 - `bmsg.command.info` - dodaje możliwość zobaczenia inforamcji o wszystkich komendach
+
+# Anti-Bot
+### DARMOWE:
+- [2LS AntiBot](https://www.spigotmc.org/resources/2ls-antibot-the-ultimate-antibot-plugin.62847/) - Kompatybilny tylko z bungeecordem
+- [EpicGuard](https://www.spigotmc.org/resources/%E2%AD%90-epicguard-protect-your-server-from-bots-more-%E2%AD%90.72369/) - Kompatybilny z bukkitem, bungeecordem i velocity
+- [nAntiBot](https://www.nickuc.com/en/details/nantibot) - Kompatybilny z bungeecordem i velocity
+
+### PŁATNE:
+- [BotSentry](https://www.spigotmc.org/resources/%E2%9A%A1-botsentry-%E2%9A%A1-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.55924/) - Kompatybilny z bukkitem, bungeecordem i velocity. Bardzo intuicyjny, z zaawansowanym podglądem na ataki i zarządzaniem
