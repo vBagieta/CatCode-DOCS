@@ -14,4 +14,4 @@
 
 - [Mohist](https://essentialsx.net/do-not-use-mohist.html) - Silnik wspierający mody pisane pod Forge'a oraz Pluginy pisane pod API Bukkita. Niestety silnik nie jest bezpieczny w eksplatowaniu, nie zaleca się jego użycia. Więcej informacji na ten temat możesz przeczytać [tutaj](https://essentialsx.net/do-not-use-mohist.html)
 
-
+*Należy zaznaczyć, że niektóre pluginy nie będą działały na tych silnikach np. EssentialsX lub ViaVersion*
