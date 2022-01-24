@@ -2,7 +2,7 @@
 Pluginy na Proxy są bardzo ważne, komendy z nich wyświetlają się na całej sieci. Jeżeli nie wiesz jakie Pluginy są na Proxy, zobacz na nasze porpozycje:
 
 ## Spis Treści:
-- [LuckPerms]()
+- [LuckPermsBungee](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#luckpermsbungee)
 
 # Pluginy:
 ### [LuckPermsBungee](https://luckperms.net/download)
