@@ -36,4 +36,3 @@ pl:
     settings: "%kick_blocked% &6&lAnti&e&lBot &8»&e Wykryto bota [Settings]\n&fDiscord: &e%discord%&r"
     password: "%kick_blocked% &6&lAnti&e&lBot &8»&e WYkryto bota [Password]\n&fDiscord: &e%discord%&r"
     reconnect: "&6&lAnti&e&lBot &8»&e Dodaj serwer do listy i zpinguj go\n&eZpinguj i dołącz ponownie %reconnect_times% razt\n\n&fPowód: &eZweryfikuje to czy nie jesteś botem"
-    ```
