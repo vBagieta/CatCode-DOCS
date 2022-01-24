@@ -115,7 +115,7 @@ W dobach dzisijeszego community Minecrafta zdarzają się osoby które wykorzyst
 # Bungee Staff - Zacznij rozmawiać ze swoją administracją
 Aby Administarcja lepiej się komunikowała, nie zwłocznie zobacz na tą propozycje!
 
-Tą wtyczke znajdziesz oraz zainstalujesz [tutaj](https://www.spigotmc.org/resources/%E2%AD%90%EF%B8%8F-bungeestaff-%E2%AD%90%EF%B8%8F-%E2%9C%85-discord-api-%E2%9C%85-infinite-chats-and-commands-%E2%9C%85-bungee-moderation-%E2%9C%85-1-7-1-18-%E2%9C%85.95425/)!
+Tą wtyczke znajdziesz oraz zainstalujesz [tutaj](https://www.spigotmc.org/resources/%E2%AD%90%EF%B8%8F-bungeestaff-%E2%AD%90%EF%B8%8F-%E2%9C%85-discord-api-%E2%9C%85-infinite-chats-and-commands-%E2%9C%85-bungee-moderation-%E2%9C%85-1-7-1-18-%E2%9C%85.95425/)! Spolszczenie znajdziesz [tutaj]()!
 
 ### Komendy i Permisje pluginu Bungee Staff
 - /bstaffs reload - Przeładuj konfiguracje. (bstaffs.admin)
