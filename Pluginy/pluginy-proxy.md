@@ -9,13 +9,13 @@
 ## Pluginy:
 
 # LuckPermsBungee - Menadżer globalnych Permisji
-Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać komend (Permisji do pluginów) z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. [Pobierz](https://luckperms.net/download)
+Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać komend (Permisji do pluginów) z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. Kliknij [tutaj](https://luckperms.net/download) aby pobrać
 
 ### Jak podpiąć Baze danych w LuckPermsie
 Przejdź do katalogu głównego serwera, a następnie wyszukaj folder `Plugins`. Wejdź do katalogu Pluginu LuckPerms i otwórz plik `config.yml`.
 Zlokalizuj ten fragment: i zacznij go edytować
 
-`storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty,  możesz użyc: MySQL, MariaDB, PostgreSQL, MongoDB`
+`storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty, możesz użyc: MySQL, MariaDB, PostgreSQL, MongoDB`
 
 `data:`
 
@@ -28,7 +28,7 @@ Zlokalizuj ten fragment: i zacznij go edytować
   `password: 'HasloMaslo' #Haslo logowania bazy danych`
   
 # SparkBungee - Kontrola działania serwera Proxy
-**Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, pozwla on na:  [Pobierz](https://spark.lucko.me/download)
+**Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, Plugin pobierzesz [tutaj](https://spark.lucko.me/download)
 
 - **Profiler procesora:** Możesz zdiagnozować problemy z działaniem CPU
 
