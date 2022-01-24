@@ -10,7 +10,6 @@
 - [Fast Login](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-fastlogin.md)
 - [Bungee Staff](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-bungeestaff.md)
 - [Combat Plus](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-combatplus.md)
-- [PlayerKits](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-playerkits.md)
 
 Jeżeli posiadasz spolszczenie jakiegoś pluginu wyslij je nam! Zostaniesz na nim zonaczony!
 
