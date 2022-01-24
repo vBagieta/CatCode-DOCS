@@ -11,7 +11,7 @@
   - [Zasady przełączania graczy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#gracze-mog%C4%85-by%C4%87-prze%C5%82%C4%85czani-pomi%C4%99dzy-serwerami-za-pomoc%C4%85-zasad)
   - [Permisje PlayerBalancer](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#permisje-pluginu-player-balancer)
 
-- [BMsg]()
+- [BMsg](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#bmsg---globalne-wiadomo%C5%9Bci-prywatne-i-wi%C4%99cej)
   - [Permisje BMsg](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#permisje-pluginu-bmsg)
 
 ## Pluginy:
