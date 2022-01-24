@@ -42,6 +42,11 @@ data:
 - **Kontrola pamięci:** Możesz kontrolować stan pamięci RAM
 
 - **Raportowanie kondycji serwera:** Możesz monitorować ogólny stan kondycji serwera
+  - TPS - tiki na sekundę, w dokładniejszym stopniu wskazanym przez polecenie /tps
+Czas trwania tiku - jak długo trwa każdy tik (min., maks. i średnia)
+  - Wykorzystanie procesora — jaka część procesora jest wykorzystywana przez proces serwera i cały system
+   - Użycie pamięci - ile pamięci jest używane przez proces
+   - Wykorzystanie dysku — ile miejsca na dysku jest wolne/używane przez system
 
 ### Permisje pluginu SparkBungee
 - `spark.*` - nadaje wszystkie permisje.
