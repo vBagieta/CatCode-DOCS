@@ -8,7 +8,6 @@
 # Pluginy
 
 - [Pluginy na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
-
 - [Pluginy na Lobby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md)
 
 - [Pluginy na Popularne Tryby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md)
@@ -19,7 +18,7 @@
 
     - [Poradniki popularnych Pluginów]()
 
-    - [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/poradnik-spolszczenia.md)
+    - [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia)
 
 # Silniki
 
