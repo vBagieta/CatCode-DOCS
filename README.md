@@ -14,7 +14,7 @@
 
 - [Popularne Pluginy, które warto poznać]() <- Todo
 
-- [Pluginy na ochronę serwera]() <- Todo
+- [Pluginy na ochronę serwera](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md)
 
     - [Poradniki popularnych Pluginów]() <- Todo
 
