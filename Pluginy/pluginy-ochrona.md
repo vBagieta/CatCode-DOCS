@@ -32,3 +32,6 @@ Każdy hosting używający dedyków od [OVH](https://ovhcloud.com) posiada najle
 [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/) to najlepszy darmowy Anti-VPN,
 
 Jest bardzo zaawansowany, darmowy oraz posiada developerskie API. Potrafi on wskazać miasto dostawcy Internetu.
+
+
+*Poweredy by Jakubk19*
