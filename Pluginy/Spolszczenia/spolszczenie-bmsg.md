@@ -1,4 +1,4 @@
-# Spolszczenie Pluginu [BMsg]() przez [vBagieta](github.com/vBagieta)
+# Spolszczenie Pluginu [BMsg](https://www.spigotmc.org/resources/bmsg-bungeecord-message-staff-chat-social-spy-help-op-toggle-msg.50606/) przez [vBagieta](github.com/vBagieta)
 
 ```
 Prefix: ''
