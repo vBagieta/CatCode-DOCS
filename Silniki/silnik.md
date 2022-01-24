@@ -1,4 +1,4 @@
-# Silniki na Lobby
+# Silniki na Lobby i Tryby
 Silników w Minecarft jest dużo. Jeżeli nie wiesz który wybrać na swój serwer, zobacz nasze propozycje poniżej.
 
 - [Bukkit](https://serverjars.com/more/bukkit) - Jest podstawowym silnikiem który umożliwia instalacje pluginów. Nie zaleca sie go użycia, ponieważ jego forki są znacznie wydajniejsze oraz optymalniejsze.
