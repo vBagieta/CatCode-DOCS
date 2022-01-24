@@ -5,7 +5,7 @@
 
 ### Aktualnie pracujemy nad rozwojem tego poradnika!
 
-# Pluginy
+# Pluginy [85%]
 
 - [Pluginy na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
 - [Pluginy na Lobby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md)
@@ -20,7 +20,7 @@
 
     - [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenia.md)
 
-# Silniki
+# Silniki [100%]
 
 - [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md)
 
@@ -29,11 +29,11 @@
 - [Silnik na Modyfikacje oraz Pluginy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
 
 
-# Hostingi
+# Hostingi [100%]
 
 - [Polecane Hostingi](https://github.com/vBagieta/Minecraft/blob/main/Hostingi/polecane_hostingi.md)
 
-# Poradniki
+# Poradniki [75%]
 
 - [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
 
