@@ -14,9 +14,9 @@
 - [BMsg](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#bmsg---globalne-wiadomo%C5%9Bci-prywatne-i-wi%C4%99cej)
   - [Permisje BMsg](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#permisje-pluginu-bmsg)
 
-- [Anti-Boty]()
-  - [Darmowe]()
-  - [Płatne]()
+- [Anti-Boty](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#anti-bot)
+  - [Darmowe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#darmowe)
+  - [Płatne](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#p%C5%82atne)
 
 ## Pluginy:
 
