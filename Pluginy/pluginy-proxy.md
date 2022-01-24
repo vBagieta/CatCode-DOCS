@@ -28,5 +28,7 @@ Zlokalizuj ten fragment: i zacznij go edytować
   `password: 'HasloMaslo' #Haslo logowania bazy danych`
   
 # SparkBungee - Kontrola działania serwera Proxy
-Profiler procesora: diagnozuj problemy z wydajnością. Kontrola pamięci: Diagnozuj problemy z pamięcią. Raportowanie kondycji serwera: Śledź ogólną kondycję serwera. [Pobierz](https://spark.lucko.me/download)
+Profiler procesora: diagnozuj problemy z wydajnością. 
+Kontrola pamięci: Diagnozuj problemy z pamięcią. 
+Raportowanie kondycji serwera: Śledź ogólną kondycję serwera. [Pobierz](https://spark.lucko.me/download)
 
