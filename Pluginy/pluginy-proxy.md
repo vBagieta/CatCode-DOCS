@@ -17,6 +17,7 @@
 - [Anti-Boty](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#anti-bot)
   - [Darmowe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#darmowe)
   - [Płatne](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#p%C5%82atne)
+- [Czat Administracji]()
 
 ## Pluginy:
 
@@ -101,10 +102,28 @@ Tłumaczenie znajdziesz [tutaj]()
 - `bmsg.command.info` - dodaje możliwość zobaczenia inforamcji o wszystkich komendach
 
 # Anti-Bot
-### DARMOWE:
+W dobach dzisijeszego community Minecrafta zdarzają się osoby które wykorzystają każdą okazje aby zniszczyć serwer Minecarft. By się przed tym bronić, zainstaluj plugin Anti-Bot i chroń się przed atakami! Jeżeli nie wiesz jaki wybrać, zobacz na nasze propozycje poniżej:
+### Darowe oprogramowanie Anti-Bot:
 - [2LS AntiBot](https://www.spigotmc.org/resources/2ls-antibot-the-ultimate-antibot-plugin.62847/) - Kompatybilny tylko z bungeecordem
 - [EpicGuard](https://www.spigotmc.org/resources/%E2%AD%90-epicguard-protect-your-server-from-bots-more-%E2%AD%90.72369/) - Kompatybilny z bukkitem, bungeecordem i velocity
 - [nAntiBot](https://www.nickuc.com/en/details/nantibot) - Kompatybilny z bungeecordem i velocity
 
-### PŁATNE:
+### Płatne oprogramowanie Anti-Bot:
 - [BotSentry](https://www.spigotmc.org/resources/%E2%9A%A1-botsentry-%E2%9A%A1-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.55924/) - Kompatybilny z bukkitem, bungeecordem i velocity. Bardzo intuicyjny, z zaawansowanym podglądem na ataki i zarządzaniem
+
+# Bungee Staff - Zacznij rozmawiać ze swoją administracją
+Aby Administarcja lepiej się komunikowała, nie zwłocznie zobacz na tą propozycje!
+
+Tą wtyczke znajdziesz oraz zainstalujesz [tutaj](https://www.spigotmc.org/resources/%E2%AD%90%EF%B8%8F-bungeestaff-%E2%AD%90%EF%B8%8F-%E2%9C%85-discord-api-%E2%9C%85-infinite-chats-and-commands-%E2%9C%85-bungee-moderation-%E2%9C%85-1-7-1-18-%E2%9C%85.95425/)!
+
+### Komendy i Permisje pluginu Bungee Staff
+/bstaffs reload - Przeładuj konfiguracje. (bstaffs.admin)
+/bstaffs version - Sprawdź wersje pluginu. - (bstaffs.admin)
+/search <player> - Znajdz gracza na sieci. - (bstaffs.search)
+/toggle <command> - Wlacz/wylacz komenda. - (custom perm)
+/togglechat <input> - Wlacza/wylcza czat. - (custom perm)
+/stafflist - Pokazuje Administracje online. - (bstaffs.list)
+/skick <server> - Wyrzuć wszytkich graczy bez specjalnej permisji. - (bstaffs.serverkick | bstaffs.serverkick.bypass)
+/svrestart - Zrestartuj serwer, przełącz wszytkich graczy do Limbo i połącz ich spowrotem, gdy serwer się uruchomi.
+/serverlist - Zobacz liczbe graczy oraz serwery. (bstaffs.serverlist)
+/clientstatus - Sprawdź statsus gracza na serwerze. (bstaffs.clientstatus)
