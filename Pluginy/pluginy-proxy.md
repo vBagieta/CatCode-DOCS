@@ -21,5 +21,6 @@ Zlokalizuj ten fragment: i zacznij go edytować
   `database: xyz #Nazwa Bazy danych`
 
   `username: ROOT #Nazwa użytkownika`
+  
   `password: 'HasloMaslo' #Haslo logowania bazy danych`
 
