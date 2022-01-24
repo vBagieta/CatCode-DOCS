@@ -1,4 +1,4 @@
-# PlUGINY NA PROXY
+# Pluginy na Proxy
 
 ## Spis Treści:
 - [LuckPermsBungee](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#luckpermsbungee---menad%C5%BCer-globalnych-permisji)
