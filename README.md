@@ -23,9 +23,9 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
  - [Silnik na Lobby/Tryb](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
 
- - Silnik na Modyfikacje
+ - ]Silnik na Modyfikacje](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
 
- - Silnik na Modyfikacje + Pluginy
+ - [Silnik na Modyfikacje + Pluginy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody-pluginy.md)
 
 # Hostingi
 
