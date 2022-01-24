@@ -1,7 +1,7 @@
 # Silniki na Lobby i Tryby
 Silników w Minecarft jest dużo. Jeżeli nie wiesz który wybrać na swój serwer, zobacz nasze propozycje poniżej.
 
-**Uwaga!** Przed pobraniem silnika, upewnij się czy załatał on exploit biblioteki **log4j**!
+**Uwaga!** Przed pobraniem silnika, upewnij się czy załatał on exploit biblioteki **[log4j](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)**!
 
 - [Bukkit](https://serverjars.com/more/bukkit) - Jest podstawowym silnikiem który umożliwia instalacje pluginów. Nie zaleca sie go użycia, ponieważ jego forki są znacznie wydajniejsze oraz optymalniejsze.
 
@@ -9,7 +9,13 @@ Silników w Minecarft jest dużo. Jeżeli nie wiesz który wybrać na swój serw
 
 - [Paper](https://papermc.io) - Jest to Fork Spigota, dodaje on nowy plik `paper.yml`. Silnik ten został zoptymalizowany bardziej niż Spigot. 
 
-- [FlamePaper](https://github.com/2lstudios-mc/FlamePaper/releases) - Fork Papera na wersję 1.8.8, który poprawia wydajność, bezpieczeństwo. Wspólnie z silnikem Proxy [Flahttps://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.mdmeCord]() tworzy najbezpieczniejsze rozwiązanie. 
+- [FlamePaper](https://github.com/2lstudios-mc/FlamePaper/releases) - Fork Papera na wersję 1.8.8, który poprawia wydajność, bezpieczeństwo. Wspólnie z silnikem Proxy [FlameCord](https://github.com/2lstudios-mc/FlameCord) tworzy najbezpieczniejsze rozwiązanie.
 
+- [SportPaper](https://github.com/Electroid/Sportpaper) - Fork Papera 1.8.8, mający na celu wprowadzenie poprawek zabezpieczeń i wydajności.
 
-*SIlnik na lobby nie musi być na najnowszą wersje! Użycie wersji 1.8.9 / 1.12.2 / 1.15.2 pozwoli zaoszczędzić zasoby serwera.*
+- [NachoSpigot](https://github.com/CobbleSword/NachoSpigot) - Fork wielu silników na wersję 1.8.8 łączący ich patche mający na celu wprowadzenie ciekawego gameplay'u, zabezpieczeń oraz wydajności
+
+- [Pufferfish](https://pufferfish.gg) - Pufferfish to jeden z najlepszych silników na wyższe wersje z powodu licznych patchy optymalizujących.
+
+- [Purpur](https://purpurmc.org) - Purpur to jeden z najpopularniejszych forków Papera na wyższe wersje z powodu posiadania patchy Pufferfisha, Airplane'a i swoich - które mają na celu wprowadzić ciekawy gameplay, np. ujeżdzanie delfinów, oraz posiada drobne optymalizacje sieci.
+
