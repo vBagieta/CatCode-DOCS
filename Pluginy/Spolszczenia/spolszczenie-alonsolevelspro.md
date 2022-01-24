@@ -1,4 +1,4 @@
-# Spolszczenie pluginu [Alonso Levels Pro](https://www.spigotmc.org/resources/%E2%9C%85-alonsolevels-pro-1-8-1-18-%E2%80%A2-add-levels-to-your-network-rewards-mysql-hikaricp-custom-slots.85968/) przez [vBagieta](https://github.com/
+# Spolszczenie pluginu [Alonso Levels Pro](https://www.spigotmc.org/resources/%E2%9C%85-alonsolevels-pro-1-8-1-18-%E2%80%A2-add-levels-to-your-network-rewards-mysql-hikaricp-custom-slots.85968/) przez [vBagieta](https://github.com/vBagieta)
 Ten plik na dniach będzie poprawiany!
 
 ```
