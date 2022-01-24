@@ -1,0 +1,1 @@
+# Pluginy na Popularne tryby
