@@ -17,7 +17,8 @@
 - [Anti-Boty](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#anti-bot)
   - [Darmowe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#darmowe)
   - [Płatne](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#p%C5%82atne)
-- [Czat Administracji]()
+- [Czat Administracji](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#anti-bot)
+  - [Komedny i permisje](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#anti-bot)
 
 ## Pluginy:
 
@@ -117,13 +118,13 @@ Aby Administarcja lepiej się komunikowała, nie zwłocznie zobacz na tą propoz
 Tą wtyczke znajdziesz oraz zainstalujesz [tutaj](https://www.spigotmc.org/resources/%E2%AD%90%EF%B8%8F-bungeestaff-%E2%AD%90%EF%B8%8F-%E2%9C%85-discord-api-%E2%9C%85-infinite-chats-and-commands-%E2%9C%85-bungee-moderation-%E2%9C%85-1-7-1-18-%E2%9C%85.95425/)!
 
 ### Komendy i Permisje pluginu Bungee Staff
-/bstaffs reload - Przeładuj konfiguracje. (bstaffs.admin)
-/bstaffs version - Sprawdź wersje pluginu. - (bstaffs.admin)
-/search <player> - Znajdz gracza na sieci. - (bstaffs.search)
-/toggle <command> - Wlacz/wylacz komenda. - (custom perm)
-/togglechat <input> - Wlacza/wylcza czat. - (custom perm)
-/stafflist - Pokazuje Administracje online. - (bstaffs.list)
-/skick <server> - Wyrzuć wszytkich graczy bez specjalnej permisji. - (bstaffs.serverkick | bstaffs.serverkick.bypass)
-/svrestart - Zrestartuj serwer, przełącz wszytkich graczy do Limbo i połącz ich spowrotem, gdy serwer się uruchomi.
-/serverlist - Zobacz liczbe graczy oraz serwery. (bstaffs.serverlist)
-/clientstatus - Sprawdź statsus gracza na serwerze. (bstaffs.clientstatus)
+- /bstaffs reload - Przeładuj konfiguracje. (bstaffs.admin)
+- /bstaffs version - Sprawdź wersje pluginu. - (bstaffs.admin)
+- /search <player> - Znajdz gracza na sieci. - (bstaffs.search)
+- /toggle <komenda> - Wlacz/wylacz komenda. - (wlasna permisja)
+- /togglechat <nazwa> - Wlacza/wylcza czat. - (wlasna permsija)
+- /stafflist - Pokazuje Administracje online. - (bstaffs.list)
+- /skick <serwer> - Wyrzuć wszytkich graczy bez specjalnej permisji. - (bstaffs.serverkick lub bstaffs.serverkick.bypass)
+- /svrestart - Zrestartuj serwer, przełącz wszytkich graczy do Limbo i połącz ich spowrotem, gdy serwer się uruchomi.
+- /serverlist - Zobacz liczbe graczy oraz serwery. (bstaffs.serverlist)
+- /clientstatus - Sprawdź statsus gracza na serwerze. (bstaffs.clientstatus)
