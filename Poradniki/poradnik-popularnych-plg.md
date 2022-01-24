@@ -1,3 +1,3 @@
 # Poradnik popularnych Pluginów
 
-# Spis treści:
+## Spis treści:
