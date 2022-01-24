@@ -12,7 +12,6 @@
   - [Permisje PlayerBalancer](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#permisje-pluginu-player-balancer)
 
 - [BMsg]()
-  - [Funkcje]()
   - [Permisje BMsg]()
 
 ## Pluginy:
@@ -44,7 +43,7 @@ data:
 
 - **Raportowanie kondycji serwera:** Możesz monitorować ogólny stan kondycji serwera
 
-### Permisje Pluginu SparkBungee
+### Permisje pluginu SparkBungee
 - `spark.*` - nadaje wszystkie permisje.
 - `spark.profiler` - nadaje możliwość sprawdzenia kondycji serwera na [tej](https://spark.me.lucko) stronie.
 - `spark.tps` - nadaje możliwość sprawdzenia aktualnych TPSów serwera.
@@ -77,6 +76,16 @@ Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac kome
 BMsg to plugin dodający wiadomośći prywatne, system zgłoszeń /helpop, tryb "detektywa", czat administarcji oraz Alertów na całe Proxy.
 
 Tłumaczenie znajdziesz [tutaj]()
-
 ![HelPOP](https://i.imgur.com/u9ge3hL.png)
 
+### Permisje pluginu BMsg
+
+- `bmsg.command.msg` - dodaje możliwość wysyłania wiadomośći prywatntch.
+- `bmsg.command.reply` - dodaje możliwość szybkiego odpowiadania na wiadomość `/r [text]`.
+- `bmsg.command.staffchat` - dodaje możliwość wysyłania wiadomości na admin czat.
+- `bmsg.command.socialspy` - dodaje możliwość widzenia wiadomości prywatnych innych graczy.   
+- `bmsg.command.helpop` - dodaje możliwość wysyłania wiadomości Helpop.
+- `bmsg.command.helpop.receive` - dodaje możliwość dostawamia wiadomości Helpop.
+- `bmsg.command.togglemsg` - dodaje możliwość wyłączenia wiadomości prywatnych.
+- `bmsg.command.broadcast` - dodaje możliwość wysyłania alertów na całą sieć. 
+- `bmsg.command.info` - dodaje możliwość zobaczenia inforamcji o wszystkich komendach
