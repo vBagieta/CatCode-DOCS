@@ -33,7 +33,7 @@
 
 - [Polecane Hostingi](https://github.com/vBagieta/Minecraft/blob/main/Hostingi/polecane_hostingi.md)
 
-# Poradniki [75%]
+# Poradniki [100%]
 
 - [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
 
