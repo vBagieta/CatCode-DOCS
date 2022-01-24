@@ -4,6 +4,9 @@
 ## Spis Treści:
 - [LuckPermsBungee](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#luckpermsbungee)
 
+- [SparkBungee](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md#sparkbungee)
+
+
 # Pluginy:
 ### [LuckPermsBungee](https://luckperms.net/download)
 - Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać komend (Permisji do pluginów) z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. 
@@ -23,4 +26,7 @@ Zlokalizuj ten fragment: i zacznij go edytować
   `username: ROOT #Nazwa użytkownika`
   
   `password: 'HasloMaslo' #Haslo logowania bazy danych`
+  
+### [SparkBungee](https://spark.lucko.me/download)
+Zzz...
 
