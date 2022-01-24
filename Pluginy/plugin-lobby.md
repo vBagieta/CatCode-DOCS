@@ -2,4 +2,4 @@
 
 ## Spis Treści:
 - [Super Lobby Deluxe]()
-  - [Permisje]()
+  - [Permisje pluginu Super Lobby Deluxe]()
