@@ -28,7 +28,7 @@ Zlokalizuj ten fragment: i zacznij go edytować
   `password: 'HasloMaslo' #Haslo logowania bazy danych`
   
 # SparkBungee - Kontrola działania serwera Proxy
-**Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera.
+**Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, pozwla on na:
 
 **Profiler procesora:** diagnozuj problemy z wydajnością. 
 
