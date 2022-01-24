@@ -1,6 +1,7 @@
 # Pluginy na Popularne tryby
 ## Spis treści:
-   - Bentobox
+- [BentoBox]()
+
 # Pluginy na Skyblocka
 
 - [Bentobox](https://github.com/bentoboxworld) - Za pomocą bentoboxa możesz stworzyć, międzyinnymi skyblocka. Plugin ten ma dużo dodatków, dlatego możesz urozmaicić swój tryb o np. Różne zadania dla graczy. 
