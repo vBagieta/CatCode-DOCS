@@ -16,7 +16,7 @@
 
 - [Pluginy na ochronę serwera](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md)
 
-    - [Poradniki popularnych Pluginów]() <- Todo
+    - [Poradniki popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/poradnik-popularnych-plg.md)
 
     - [Spolszczenia popularnych Pluginów](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenia.md)
 
