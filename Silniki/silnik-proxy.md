@@ -27,7 +27,7 @@ Silników na Proxy jest masę, jeżeli nie wiesz który wybrać, zobacz na nasze
 
 - [Aegis](https://mc-protection.eu/products) - Najbardziej nie polecane Proxy. Kod tego silnika jest
   kradziony [dowód + przyznanie się](https://www.mc-market.org/threads/572340/), sam twórca dostał bana
-  na [SpigotMC](https://spigotmc.org) oraz [MC Market](https://www.mc-market.org/members/126711/). Anti-Bot działa
+  na [SpigotMC](https://www.spigotmc.org/members/yooniks.539905/) oraz [MC Market](https://www.mc-market.org/members/126711/). Anti-Bot działa
   bardzo źle, a efekt „spadania w pustce” jest celowy, aby pokazać silnik z jak najlepszej strony. Anti-Crash nie
   działa, sam twórca zaleca użyć innego *równiez płatnego* pluginu. Obecnie jest to najgorsze Proxy na rynku.
 
