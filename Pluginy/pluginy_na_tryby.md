@@ -5,6 +5,6 @@
   - [OneBlock]()
   - [CaveBlock]()
 ## SkyBlock
-Za pomocą BentoBox, oraz dodatków do niego możesz stworzyć najlepszy tryb SKyBlock!
+Za pomocą BentoBox, oraz dodatków do niego możesz stworzyć najlepszy tryb SkyBlock!
 
 
