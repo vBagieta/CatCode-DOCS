@@ -9,11 +9,11 @@
 ## Pluginy:
 
 # LuckPermsBungee - Menadżer globalnych Permisji
-Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać pluginów z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. Kliknij [tutaj](https://luckperms.net/download) aby pobrać
+Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać pluginów z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. Kliknij [tutaj](https://luckperms.net/download) aby pobrać.
 
 ### Jak podpiąć Baze danych w LuckPermsie
 Przejdź do katalogu głównego serwera, a następnie wyszukaj folder `Plugins`. Wejdź do katalogu Pluginu LuckPerms i otwórz plik `config.yml`.
-Zlokalizuj ten fragment: i zacznij go edytować
+Zlokalizuj ten fragment: i zacznij go edytować.
 
 `storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty, możesz użyc: MySQL, MariaDB, PostgreSQL, MongoDB`
 
@@ -28,7 +28,7 @@ Zlokalizuj ten fragment: i zacznij go edytować
   `password: 'HasloMaslo' #Haslo logowania bazy danych`
   
 # SparkBungee - Kontrola działania serwera Proxy
-**Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, Plugin pobierzesz [tutaj](https://spark.lucko.me/download)
+**Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, Plugin pobierzesz [tutaj](https://spark.lucko.me/download). 
 
 - **Profiler procesora:** Możesz zdiagnozować problemy z działaniem CPU
 
@@ -36,3 +36,6 @@ Zlokalizuj ten fragment: i zacznij go edytować
 
 - **Raportowanie kondycji serwera:** Możesz monitorować ogólny stan kondycji serwera
 
+# PlayerBalancer - Balansuj graczy pomiędzy serwerami!
+
+Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac komendy typu /lobby? A może chcesz aby graczy po wyrzuceniu z podserwera nie byli wyrzucani z sieci? Dobrze trafiłeś! To wszytko pozwala plugin PlayerBalancer! Dodatkowo wspiera Pluginy na [Party](https://www.spigotmc.org/resources/party-and-friends-for-bungeecord-supports-clients-from-1-7-to-1-9.9531/) oraz [Przyjacioł](https://www.spigotmc.org/resources/ultimate-friends.3964/)! Plugin pobierzesz [tutaj!](https://www.spigotmc.org/resources/playerbalancer.55011/updates)
