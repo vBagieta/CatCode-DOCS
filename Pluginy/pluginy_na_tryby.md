@@ -1,6 +1,6 @@
 # Pluginy na Popularne tryby
 ## Spis treści:
-- [BentoBox](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md#Pluginy-na-SkyBlock)
+- [SkyBlock](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md#Pluginy-na-SkyBlock)
 ## Pluginy:
 
 # Pluginy na SkyBlock
