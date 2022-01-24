@@ -1,5 +1,5 @@
-CONFIG.YML | Musisz mieć włączone kodowanie UTF-8
-
+# Spolszczenie pluginu [Player Kits](https://www.spigotmc.org/resources/playerkits-fully-configurable-kits-1-8-1-18.75185/) przez [Kvbusiek](https://github.com/Kvbusiek)
+```
 Messages:
   prefix: '&f&lZestawy &8&l» '
   noPermissions: '&7Nie posiadasz wymaganych uprawnień!'
