@@ -30,11 +30,11 @@ Zlokalizuj ten fragment: i zacznij go edytować
 # SparkBungee - Kontrola działania serwera Proxy
 **Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, pozwla on na:
 
-**Profiler procesora:** diagnozuj problemy z wydajnością. 
+**Profiler procesora:** Możesz zdiagnozować problemy z działaniem CPU
 
-**Kontrola pamięci:** Diagnozuj problemy z pamięcią. 
+**Kontrola pamięci:** Możesz kontrolować stan pamięci RAM
 
-**Raportowanie kondycji serwera:** Śledź ogólną kondycję serwera.
+**Raportowanie kondycji serwera:** Możesz monitorować ogólny stan kondycji serwera
 
 [Pobierz plugin tutaj!](https://spark.lucko.me/download)
 
