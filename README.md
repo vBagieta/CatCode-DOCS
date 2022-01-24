@@ -21,9 +21,11 @@ rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
  - [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md)
 
- - Silnik na Lobby
+ - [Silnik na Lobby/Tryb](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
 
- - Silnik na Tryb
+ - Silnik na Modyfikacje
+
+ - Silnik na Modyfikacje + Pluginy
 
 # Hostingi
 
