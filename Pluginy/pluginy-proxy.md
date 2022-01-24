@@ -8,10 +8,10 @@ Pluginy na Proxy są bardzo ważne, komendy z nich wyświetlają się na całej 
 - [LuckPermsBungee](https://luckperms.net/download) - Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać komend (Permisji do pluginów) z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. 
 
 ### Jak podpiąć Baze danych w LuckPermsie
-Przejdź do katalogu głównego serwera, a następnie wyszukaj folder Plugins. Wejdź do katalogu Pluginu LuckPerms i otwórz plik config.yml.
+Przejdź do katalogu głównego serwera, a następnie wyszukaj folder `Plugins`. Wejdź do katalogu Pluginu LuckPerms i otwórz plik `config.yml`.
 Zlokalizuj ten fragment: i zacznij go edytować
 
-storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty *Bazy danych który LuckPerms obsługuje:  MySQL, **MariaDB**, PostgreSQL, MongoDB*
+``storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty *Bazy danych który LuckPerms obsługuje:  MySQL, **MariaDB**, PostgreSQL, MongoDB*
 
 data:
 
@@ -20,5 +20,5 @@ data:
   database: xyz #Nazwa Bazy danych
 
   username: ROOT #Nazwa użytkownika
-  password: 'HasloMaslo' #Haslo logowania bazy danych
+  password: 'HasloMaslo' #Haslo logowania bazy danych``
 
