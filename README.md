@@ -24,7 +24,7 @@
 
 - [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md)
 
-- [Silnik na Lobby/Tryb](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
+- [Silnik do gry](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
 
 - [Silnik na Modyfikacje](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
 
