@@ -1,8 +1,8 @@
 # Czego warto unikać przy tworzeniu serwera
 
 ## Spis treści:
-- [Płatne silniki]()
-- [BlackSpigot oraz inne strony tego typu]()
+- [Płatne silniki](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/warto-unikac.md#p%C5%82atne-silniki)
+- [BlackSpigot oraz inne strony tego typu](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/warto-unikac.md#BlackSpigot)
 
 # Płatne silniki:
 Większość dobrego oprogramowania serwerów minecarft jest darmowa, np Paper lub Velocity. Niestety zdarzają się przypadki gdy ktoś chce nam sprzedać oprogramowanie nie warte swojej cany, np. [Aegis](https://mc-protection.eu/products) (Można powiedzieć że całe Mc-Ptotection.EU). Ze względu na to jak wygląda ich oprogramowanie, zalecamy nie wchodzić z nimi w interakcje. Ban autoa na [SpigotMC](https://www.spigotmc.org/members/yooniks.539905/), [Mc Market](https://www.mc-market.org/members/126711/), [Dowód + Przyznanie się](https://www.mc-market.org/threads/572340/).
