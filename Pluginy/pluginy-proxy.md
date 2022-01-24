@@ -12,6 +12,7 @@
   - Permisje PlayerBalancer
 
 - [BMsg]()
+  - Funkcje
   - Permisje BMsg
 
 ## Pluginy:
@@ -55,5 +56,8 @@ Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac kome
   - `PROGRESSIVE_LOWEST` - Pierwszy serwer z najmniejszą ilością osób.
   - `PROGRESSIVE_FILLER` - Pierwszy serwer z największą ilośćią osób, ale nie pełny.
   - `EXTERNAL` - Przezuca gracza według innego pluginu.
+
+### Permisje pluginu Player Balancer
+ - `playerbalancer.bypass` - gracz z tą permisją nie może byc przenoszony na inny serwer. Zalecamy ustawienie tej Permisji każdej grupie na `false`.
 
 # BMsg - Globalne wiadomości prywatne, i więcej!
