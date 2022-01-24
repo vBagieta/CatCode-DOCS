@@ -1,7 +1,7 @@
 # Pluginy na Lobby
 
 ## Spis Treści:
-- [Super Lobby Deluxe]()
+- [Super Lobby Deluxe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#supper-lobby-deluxe----zr%C3%B3b-swoje-lobby-lepsze)
   - [Permisje pluginu Super Lobby Deluxe]()
 
 # Supper Lobby Deluxe -  Zrób swoje Lobby lepsze!
