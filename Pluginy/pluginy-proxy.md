@@ -27,14 +27,12 @@ Zlokalizuj ten fragment: i zacznij go edytować
   
   `password: 'HasloMaslo' #Haslo logowania bazy danych`
   
-# SparkBungee - Kontrola działania serwera Proxy
+# SparkBungee - Kontrola działania serwera Proxy ###[Pobierz](https://spark.lucko.me/download)
 **Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, pozwla on na:
 
-**Profiler procesora:** Możesz zdiagnozować problemy z działaniem CPU
+- **Profiler procesora:** Możesz zdiagnozować problemy z działaniem CPU
 
-**Kontrola pamięci:** Możesz kontrolować stan pamięci RAM
+- **Kontrola pamięci:** Możesz kontrolować stan pamięci RAM
 
-**Raportowanie kondycji serwera:** Możesz monitorować ogólny stan kondycji serwera
-
-[Pobierz plugin tutaj!](https://spark.lucko.me/download)
+- **Raportowanie kondycji serwera:** Możesz monitorować ogólny stan kondycji serwera
 
