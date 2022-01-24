@@ -11,14 +11,14 @@ Pluginy na Proxy są bardzo ważne, komendy z nich wyświetlają się na całej 
 Przejdź do katalogu głównego serwera, a następnie wyszukaj folder `Plugins`. Wejdź do katalogu Pluginu LuckPerms i otwórz plik `config.yml`.
 Zlokalizuj ten fragment: i zacznij go edytować
 
-`storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty *Bazy danych który LuckPerms obsługuje:  MySQL, **MariaDB**, PostgreSQL, MongoDB*
+`storage-method: MySQL #Do jakiej bazy danych Plugin będzie podpięty *Bazy danych który LuckPerms obsługuje:  MySQL, **MariaDB**, PostgreSQL, MongoDB*`
 
-data:
+`data:`
 
-  address: mysql.twojserwer.pl:3306 #Host Bazy Danych Uwaga! Host zawsze musisz zapisać jako host:port_bazy
+  `address: mysql.twojserwer.pl:3306 #Host Bazy Danych Uwaga! Host zawsze musisz zapisać jako host:port_bazy`
 
-  database: xyz #Nazwa Bazy danych
+  `database: xyz #Nazwa Bazy danych`
 
-  username: ROOT #Nazwa użytkownika
-  password: 'HasloMaslo' #Haslo logowania bazy danych`
+  `username: ROOT #Nazwa użytkownika`
+  `password: 'HasloMaslo' #Haslo logowania bazy danych`
 
