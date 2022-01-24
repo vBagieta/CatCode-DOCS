@@ -38,7 +38,7 @@
 
 - [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
 
-- [Czego warto unikać?]() <- Todo
+- [Czego warto unikać?](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/warto-unikac.md)
 
 - [Propozycje do Poradnika](https://github.com/vBagieta/Minecraft/issues)
   - [Zmiany w kodzie](https://github.com/vBagieta/Minecraft/pulls)
