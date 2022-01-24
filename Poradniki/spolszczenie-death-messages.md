@@ -1,7 +1,7 @@
 # Spolszczenie Pluginu [DeathMessages]()
 ## Spolszczenie zostało zrobione przez [Pan123](https://www.spigotmc.org/members/pan123.1232517/)
 
-
+```
 Natural-Cause:
   Bed:
     - "%player% Próbował spać w %world_environment% :kappa:"
@@ -1206,3 +1206,4 @@ Mobs:
         - "%player% Został zabity przez %killer%! z %weapon%"
       Melee:
         - "%player% Został zabity przez %killer%"
+```
