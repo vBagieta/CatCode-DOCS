@@ -4,7 +4,15 @@
   - [SkyBlock]()
   - [OneBlock]()
   - [CaveBlock]()
-## SkyBlock
-Za pomocą BentoBox, oraz dodatków do niego możesz stworzyć najlepszy tryb SkyBlock!
+## Pluginy:
 
+#BentoBox
+Za pomocą BentoBox oraz Addonów możesz zrobić najlepszy tryb rozgrywki!
 
+Wszytkie tryby oraz addony znajdziesz [tutaj](https://download.bentobox.world/)
+
+#BentoBox: SkyBlock
+
+#BentoBox: OneBlock
+
+#BentoBox: CaveBlock
