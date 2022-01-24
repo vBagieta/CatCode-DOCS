@@ -1,9 +1,9 @@
 # Pluginy na ochrone Serwera Minecraft 
 
 ## Spis treści:
-- [Anti-Crash]()
-- [Anti-Bot]()
-- [Anti-DDoS]()
+- [Anti-Crash](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
+- [Anti-Bot](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
+- [Anti-DDoS](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
 
 # Anti-Crash
 **UWAGA!** Jeżeli masz serwer na najnowszej wersji, to nie będziesz potrzebował zabezpieczenia typu Anti-Crash. Paper naprawia w większości znane błędy pozwalające crashować serwer, a każdy nowy naprawia w chwilę.
@@ -22,5 +22,6 @@ Jeśli korzystasz ze starszej wersji, zainteresuj się pluginem [ExploitFixer](h
 # Anti-DDoS
 Jeżeli twój Hosting nie posiada Anti-DDoS'a lub jest bardzo słaby,
 
-Zalecamy użycie jednego z najlepszych obecnie Anti-DDos’a [TCPShields](https://tcpshield.com/), który posiada wersje Darmową (idealna do 30 graczy) 
-.
+Zalecamy użycie jednego z najlepszych obecnie Anti-DDos’a [TCPShields](https://tcpshield.com/), który posiada wersje Darmową (idealna do 30 graczy).
+
+Każdy hosting używający dedyków od [OVH](https://ovhcloud.com) posiada najlepszy Anti-DDoS GAME+.
