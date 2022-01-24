@@ -20,6 +20,7 @@ Jeśli korzystasz ze starszej wersji, zainteresuj się pluginem [ExploitFixer](h
 - [BotSentry](https://www.spigotmc.org/resources/%E2%9A%A1-botsentry-%E2%9A%A1-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.55924/) - Kompatybilny z bukkitem, bungeecordem i velocity. Bardzo intuicyjny, z zaawansowanym podglądem na ataki i zarządzaniem
 
 # Anti-DDoS
-Jeżeli twój Hosting nie posiada Anti DDoS'a lub jest bardzo słaby,
+Jeżeli twój Hosting nie posiada Anti-DDoS'a lub jest bardzo słaby,
 
-Zalecamy użycie jednego z najlepszych obecnie Anti-DDos'a [TCPShields](https://tcpshield.com/), który posiada wersje Darmową (idealna do 30 graczy) 
+Zalecamy użycie jednego z najlepszych obecnie Anti-DDos’a [TCPShields](https://tcpshield.com/), który posiada wersje Darmową (idealna do 30 graczy) 
+.
