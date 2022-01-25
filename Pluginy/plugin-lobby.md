@@ -30,7 +30,7 @@ Chcesz urozmaicić graczom rozgrywkę poprzez gadżety? Nic trudnego! Wystraczy 
 Polecamy kupić wersje [PREMIUM](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-18-1-premium.62831/) Tego pluginu, zawiera ona więcej dodatków, system zwięrząt i wiele więcej!
 
 ## Permisjie Pluginu GadgetsMenu
-Plugin nie wątpliwie zawiera dużo permsiji. Wszytkie znajdziesz na oficjalnej [WIKI](https://github.com/yapzhenyie/GadgetsMenu/wiki/Permissions) Autora pluginu. 
+Plugin ten nie wątpliwie zawiera dużo permsiji. Wszytkie znajdziesz na oficjalnej [WIKI](https://github.com/yapzhenyie/GadgetsMenu/wiki/Permissions) Autora pluginu. 
 
 # Alonso Levels -  System lewelowania jak z Hypixela
 
