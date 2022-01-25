@@ -44,13 +44,13 @@ Plugin ten nie wątpliwie zawiera dużo permsiji. Wszytkie znajdziesz na oficjal
 
 ---
 
-# Alonso Levels -  System lewelowania jak z Hypixela
+# Alonso Levels -  System levelowania jak z Hypixela
 
 Jeżeli szukałeś pluginu na system lewelowania oraz monet taki jak z Hypixela, świetnie znalazłeś. [Alosno levels](https://www.spigotmc.org/resources/%E2%9C%85-alonsolevels-1-8-1-18-%E2%80%A2-add-levels-to-your-network-rewards-database-hikaricp.83380/) [[PRO]](https://www.spigotmc.org/resources/%E2%9C%85-alonsolevels-pro-1-8-1-18-%E2%80%A2-add-levels-to-your-network-rewards-mysql-hikaricp-custom-slots.85968/) to najlepszy plugin do tego.
 
 
 W tym pluginie zrobisz:
-- System lewelowania
+- System levelowania
 - System Monet
 - System Boosterów
 - Nagrody za lewele
