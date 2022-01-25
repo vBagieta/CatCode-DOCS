@@ -91,4 +91,4 @@ Nasz Team zamieścił częściowe spolszczenie tego pluginu [tutaj]()!
 - `/alonsolevels reload` - Przeładowywuje konfiguracje. [Rekomendowany restart]
   - Permisja: alonsolevels.admin
 
-*ScreenShoty zostały zapożyczone z serwerów: Mc.Hypixel.Net, DerpMc.PL oraz Feerko.PL*
+*ScreenShoty zostały zapożyczone z serwerów: Mc.Hypixel.Net, DerpMc.PL oraz Feerko.PL.*
