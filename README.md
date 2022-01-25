@@ -4,7 +4,7 @@ Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie na
 
 **Uwaga!** Projekt aktualnie jest rozwijany! Nie długo całość zostanie ukończona!
 
-Jeżeli uważasz że coś jest źle i powinno zostać poprawione kliknij [tutaj](https://github.com/vBagieta/Minecraft/issues) lub [tu](https://github.com/vBagieta/Minecraft/pulls).
+Jeżeli uważasz że coś jest źle i powinno zostać poprawione lub posiadasz inne pytania, kliknij [tutaj](https://github.com/vBagieta/Minecraft/issues) lub [tu](https://github.com/vBagieta/Minecraft/pulls).
 
 # Pluginy
 
