@@ -33,7 +33,7 @@ Chcesz urozmaicić graczom rozgrywkę poprzez gadżety? Nic trudnego! Wystraczy 
 
 Częściowe spolszczenie nasz Team zamieścił [tutaj]()
 
-![HypixelVault](https://i.imgur.com/9yUWiZP.png)                                       ![DerpMCGadzety](https://i.gur.com/cQhj72G.png)
+![HypixelVault](https://i.imgur.com/9yUWiZP.png)                                       ![DerpMCGadzety](https://i.imgur.com/cQhj72G.png)
 
 Polecamy kupić wersje [PREMIUM](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-18-1-premium.62831/) Tego pluginu, zawiera ona więcej dodatków, system zwięrząt i wiele więcej!
 
@@ -56,7 +56,7 @@ W tym pluginie zrobisz:
 Ponadto możesz zkonfigurować ten plugin z innymi! Na przykład: Vault, PlayerPoints lub CoinsAPI.
 Nasz Team zamieścił częściowe spolszczenie tego pluginu [tutaj]()!
 
-![DerpMCSideBar](https://imgur.com/cQhj72G)                     ![FeerkoNagrody](https://imgur.com/vMpmK8H)
+![DerpMCSideBar](https://i.imgur.com/cQhj72G.png)                     ![FeerkoNagrody](https://i.imgur.com/vMpmK8H.png)
 
 
 ## Permisjie oraz komendy Pluginu Alonso Levels
