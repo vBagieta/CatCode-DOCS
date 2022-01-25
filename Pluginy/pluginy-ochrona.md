@@ -24,6 +24,7 @@ Jeśli korzystasz ze starszej wersji, zainteresuj się pluginem [ExploitFixer](h
 ### PŁATNE:
 - [BotSentry](https://www.spigotmc.org/resources/%E2%9A%A1-botsentry-%E2%9A%A1-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.55924/) - Kompatybilny z bukkitem, bungeecordem i velocity. Bardzo intuicyjny, z zaawansowanym podglądem na ataki i zarządzaniem
 
+*Pluginy na Anti-Bot zostały sporządzane przez [JakubK19](https://github.com/Jakubk19/)
 ---
 
 # Anti-DDoS
@@ -39,7 +40,4 @@ Każdy hosting używający dedyków od [OVH](https://ovhcloud.com) posiada najle
 
 [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/) to najlepszy darmowy Anti-VPN,
 
-Jest bardzo zaawansowany, darmowy oraz posiada developerskie API. Potrafi on wskazać miasto dostawcy Internetu.
-
-
-*Poweredy by Jakubk19*
+Jest bardzo zaawansowany, darmowy oraz posiada developerskie API. Potrafi on wskazać lokalizacje z dokładnością do miasta dostawcy Internetu.
