@@ -55,9 +55,9 @@ Nasz Team zamieścił częściowe spolszczenie tego pluginu [tutaj]()!
   - Permisja: No permission.
 - `/alonsolevels stats [gracz]` - Check others statistics
   - Permisja: alonsolevels.stats.others
--`/alonsolevels stats` - Sprawdza statystyki gracza.
+- `/alonsolevels stats` - Sprawdza statystyki gracza.
   - Permisja: No permission.
-- `/alonsolevels reset [gracz]` - Resetuje staytsyki gracza [Możliwe do wykonania tylko przezz konsole]
+- `/alonsolevels reset [gracz]` - Resetuje staytsyki gracza [Możliwe do wykonania tylko przez konsole]
   - Permisja: alonsolevels.admin
 - `/alonsolevels addexp [gracz] [ilosc]` - Dodaj ilość doświadczenia dla gracza.
   - Permisja: alonsolevels.admin
