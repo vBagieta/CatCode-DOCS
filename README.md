@@ -3,9 +3,6 @@
 Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
 **Uwaga!** Projekt aktualnie jest rozwijany! Nie długo całość zostanie ukończona!
-
-Jeżeli uważasz że coś jest źle i powinno zostać poprawione lub posiadasz inne pytania, kliknij [tutaj](https://github.com/vBagieta/Minecraft/issues) lub [tu](https://github.com/vBagieta/Minecraft/pulls).
-
 Nasz oficjalny serwer [**Discord**](https://discord.gg/hFS8AnzPG8)
 
 # Pluginy
