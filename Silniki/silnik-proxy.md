@@ -26,7 +26,6 @@ Silników na Proxy jest masę, jeżeli nie wiesz który wybrać, zobacz na nasze
 - [EyfenCord](https://safemc.pl/) - Płatny, ale warty polecenia fork Waterfalla. Proxy posiada on Anti-Bota, Anti-Crasha
   oraz Captche, aby zweryfikować gracza.
 
----
 
 
 - [Aegis](https://mc-protection.eu/products) - Najbardziej nie polecane Proxy. Kod tego silnika jest
@@ -35,7 +34,6 @@ Silników na Proxy jest masę, jeżeli nie wiesz który wybrać, zobacz na nasze
   bardzo źle, a efekt „spadania w pustce” jest celowy, aby pokazać silnik z jak najlepszej strony. Anti-Crash nie
   działa, sam twórca zaleca użyć innego *równiez płatnego* pluginu. Obecnie jest to najgorsze Proxy na rynku.
 
----
 
 *HexaCord, Travertine oraz inne forki zostały wykluczone ze względu na archaiczność oraz to, ze zostały wyparte przez te
 najnowsze.*
