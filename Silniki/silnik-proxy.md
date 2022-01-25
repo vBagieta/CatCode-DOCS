@@ -32,7 +32,7 @@ Silników na Proxy jest masę, jeżeli nie wiesz który wybrać, zobacz na nasze
 
 
 - [EyfenCord](https://safemc.pl/) - Płatny, ale warty polecenia fork Waterfalla. Proxy posiada on Anti-Bota, Anti-Crasha
-  oraz Captche, aby zweryfikować czy gracza czy jest botem.
+  oraz Captche, aby zweryfikować czy gracza.
 
 ---
 
