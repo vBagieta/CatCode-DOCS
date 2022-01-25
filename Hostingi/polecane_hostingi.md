@@ -7,3 +7,11 @@
 - [Hetzner](https://hetzner.com) - nieco tani hosting serwerów dedykowanych, ze względu na brak ochrony DDoS. Posiada nowe procesory Ryzen. Jako ochronę DDoS, zalecamy użyć [TCPShielda](https://tcpshield.com), [InfinityFiltera](https://www.infinity-filter.com/en), [CloudFlare Spectrum](https://www.cloudflare.com/products/cloudflare-spectrum/minecraft/), lub Shieldię.
 
 - [OVH](https://ovh.com) - jeden z topowych hostingów serwerów dedykowanych, posiada ochronę DDoS, jednak może ona działać nieco gorzej niż wyżej wymienione. Ceny są nieco droższe od Hetznera.
+
+---
+
+# Nie polecane hostinngi Minecarft.
+
+- [TitanAxe]()
+- [Craftserve]()
+- [Creeper]()
