@@ -5,7 +5,7 @@
   - [Permisje pluginu Super Lobby Deluxe](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisje-pluginu-super-lobby-deluxe)
 
 - [GadgetsMenu](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#gadgetsmenu----dodaj-gad%C5%BCety-na-serwer)
-  - [Permisjie Pluginu GadgetsMenu](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md)
+  - [Permisjie Pluginu GadgetsMenu](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisjie-pluginu-gadgetsmenu)
 
 - [Alonso Levels]()
   - [Permisjie Pluginu Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#Permisje-Pluginu-AlonsoLevels)
