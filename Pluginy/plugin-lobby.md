@@ -8,7 +8,7 @@
   - [Permisjie Pluginu GadgetsMenu](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisjie-pluginu-gadgetsmenu)
 
 - [Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#alonso-levels----system-lewelowania-jak-z-hypixela)
-  - [Permisjie Pluginu Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisjie-pluginu-alonso-levels)
+  - [Permisjie Pluginu Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisjie-oraz-komendy-pluginu-alonso-levels)
 
 ## Pluginy:
 
