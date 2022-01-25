@@ -22,6 +22,8 @@
 
 ## Pluginy:
 
+---
+
 # LuckPermsBungee - Menadżer globalnych Permisji
 Plugin pozwalający utworzyć grupy permisji dla graczy. Jeżeli nie użyjemy go na Proxy (Tylko na podserwerach), nikt nie będzie mógł używać pluginów z Proxy. Aby wszystkie serwery wczytywały te same Permisje, musimy podpiąc je pod Baze Danych. Kliknij [tutaj](https://luckperms.net/download) aby pobrać.
 
@@ -39,6 +41,8 @@ data:
   password: 'HasloMaslo' #Haslo logowania bazy danych
   ```
   Sposób zapisywania `DB` oraz `SQLite` jest lokalny, nie można go użyc w tworzeniu sieci.
+
+---
   
 # SparkBungee - Kontrola działania serwera Proxy
 **Spark** to **najlepszy** plugin na kontrlowanie kondycji serwera, Plugin pobierzesz [tutaj](https://spark.lucko.me/download). 
@@ -67,6 +71,8 @@ Czas trwania tiku - jak długo trwa każdy tik (min., maks. i średnia)
 - `spark.activity` - nadaje możliwość sprawdzenia aktywnośći serwera i gracza.
 
 
+---
+
 # PlayerBalancer - Balansuj graczami pomiędzy serwerami!
 
 Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac komendy typu /lobby? A może chcesz aby graczy po wyrzuceniu z podserwera nie byli wyrzucani z sieci? Dobrze trafiłeś! To wszytko pozwala plugin PlayerBalancer! Dodatkowo wspiera Pluginy na [Party](https://www.spigotmc.org/resources/party-and-friends-for-bungeecord-supports-clients-from-1-7-to-1-9.9531/) oraz [Znajomych](https://www.spigotmc.org/resources/ultimate-friends.3964/)! Plugin pobierzesz [tutaj!](https://www.spigotmc.org/resources/playerbalancer.55011/updates)
@@ -82,6 +88,8 @@ Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac kome
 
 ### Permisje pluginu Player Balancer
  - `playerbalancer.bypass` - gracz z tą permisją nie może byc przenoszony na inny serwer. Zalecamy ustawienie tej Permisji na `false`.
+
+---
 
 # BMsg - Globalne wiadomości prywatne, i więcej!
 BMsg to plugin dodający wiadomośći prywatne, system zgłoszeń /helpop, tryb "detektywa", czat administarcji oraz Alertów na całe Proxy.
@@ -102,6 +110,8 @@ Tłumaczenie znajdziesz [tutaj]()
 - `bmsg.command.broadcast` - dodaje możliwość wysyłania alertów na całą sieć. 
 - `bmsg.command.info` - dodaje możliwość zobaczenia inforamcji o wszystkich komendach
 
+---
+
 # Anti-Bot
 W dobach dzisijeszego community Minecrafta zdarzają się osoby które wykorzystają każdą okazje aby zniszczyć serwer Minecarft. By się przed tym bronić, zainstaluj plugin Anti-Bot i chroń się przed atakami! Jeżeli nie wiesz jaki wybrać, zobacz na nasze propozycje poniżej:
 ### Darowe oprogramowanie Anti-Bot:
@@ -111,6 +121,8 @@ W dobach dzisijeszego community Minecrafta zdarzają się osoby które wykorzyst
 
 ### Płatne oprogramowanie Anti-Bot:
 - [BotSentry](https://www.spigotmc.org/resources/%E2%9A%A1-botsentry-%E2%9A%A1-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.55924/) - Kompatybilny z bukkitem, bungeecordem i velocity. Bardzo intuicyjny, z zaawansowanym podglądem na ataki i zarządzaniem
+
+---
 
 # Bungee Staff - Zacznij rozmawiać ze swoją administracją
 Aby Administarcja lepiej się komunikowała, nie zwłocznie zobacz na tą propozycje!
