@@ -49,41 +49,29 @@ Ponadto możesz zkonfigurować ten plugin z innymi! Na przykład: Vault, PlayerP
 Nasz Team zamieścił częściowe spolszczenie tego pluginu [tutaj]()!
 
 ## Permisjie oraz komendy Pluginu Alonso Levels
-- /alonsolevels rewards [gracz] - Otwórz Menu nagród graczowi.
+- `/alonsolevels rewards [gracz]` - Otwórz Menu nagród graczowi.
   - Permisja: alonsolevels.admin
-
-- /alonsolevels rewards - Otwiera Menu nagród.
+- `/alonsolevels rewards` - Otwiera Menu nagród.
   - Permisja: No permission.
-
-- /alonsolevels stats [gracz] - Check others statistics
+- `/alonsolevels stats [gracz]` - Check others statistics
   - Permisja: alonsolevels.stats.others
-
-- /alonsolevels stats - Sprawdza statystyki gracza.
+-`/alonsolevels stats` - Sprawdza statystyki gracza.
   - Permisja: No permission.
-
-- /alonsolevels reset [gracz] - Resetuje staytsyki gracza [Możliwe do wykonania tylko przezz konsole]
+- `/alonsolevels reset [gracz]` - Resetuje staytsyki gracza [Możliwe do wykonania tylko przezz konsole]
   - Permisja: alonsolevels.admin
-
-- /alonsolevels addexp [gracz] [ilosc] - Dodaj ilość doświadczenia dla gracza.
+- `/alonsolevels addexp [gracz] [ilosc]` - Dodaj ilość doświadczenia dla gracza.
   - Permisja: alonsolevels.admin
-
-- /alonsolevels addrandomexp [gracz] [min] [max] - Dodaje losową ilość doświadczenia dla gracza.
+- `/alonsolevels addrandomexp [gracz] [min] [max]` - Dodaje losową ilość doświadczenia dla gracza.
   - Permisja: alonsolevels.admin
-
-- /alonsolevels removeexp [gracz] [ilosc] - Usuwa doświadczenia gracza.
+- `/alonsolevels removeexp [gracz] [ilosc]` - Usuwa doświadczenia gracza.
   - Permisja: alonsolevels.admin
-
-- /alonsolevels setexp [gracz] [Ilosc doświadczenia] - Ustawia doświadczenie gracza
+- `/alonsolevels setexp [gracz] [Ilosc doświadczenia]` - Ustawia doświadczenie gracza
   - Permisja: alonsolevels.admin
-
-- /alonsolevels addlevel [gracz] [ilosc] - Dodaje Leveli dla gracza
+- `/alonsolevels addlevel [gracz] [ilosc]` - Dodaje Leveli dla gracza
   - Permisja: alonsolevels.admin
-
-- /alonsolevels removelevel [gracz] [ilosc] - Usuwa lewele dla gracza
+- `/alonsolevels removelevel [gracz] [ilosc]` - Usuwa lewele dla gracza
   - Permisja: alonsolevels.admin
-
-- /alonsolevels setlevel [gracz] [level] - Ustawia lewel gracza.
+- `/alonsolevels setlevel [gracz] [level]` - Ustawia lewel gracza.
   - Permisja: alonsolevels.admin
-
-- /alonsolevels reload - Przeładowywuje konfiguracje. [Rekomendowany restart]
+- `/alonsolevels reload` - Przeładowywuje konfiguracje. [Rekomendowany restart]
   - Permisja: alonsolevels.admin
