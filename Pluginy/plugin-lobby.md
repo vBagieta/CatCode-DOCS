@@ -15,7 +15,7 @@
 ---
 
 # Supper Lobby Deluxe -  Zmień swoje Lobby na lepsze!
-Plugin [Super Lobby Deluxe]() pozwala na znaczne ulepszenie Lobby serwera. Możesz w nim: Zrobić własny scoreboard, edytować tabliste, dodać wiadomość powitalną, dodać profil gracza, otwierać menu trybów, dodać własny boss-bar i wiele wiele więcej!
+Plugin [Super Lobby Deluxe](https://www.spigotmc.org/resources/%E2%9C%AA-superlobbydeluxe-1-8-8-1-17-x-%E2%9C%AA.20400/) pozwala na znaczne ulepszenie Lobby serwera. Możesz w nim: Zrobić własny scoreboard, edytować tabliste, dodać wiadomość powitalną, dodać profil gracza, otwierać menu trybów, dodać własny boss-bar i wiele wiele więcej!
 
 ### Permisje pluginu Super Lobby Deluxe
 
@@ -31,7 +31,7 @@ Plugin [Super Lobby Deluxe]() pozwala na znaczne ulepszenie Lobby serwera. Może
 # GadgetsMenu -  Dodaj gadżety na serwer!
 Chcesz urozmaicić graczom rozgrywkę poprzez gadżety? Nic trudnego! Wystraczy że pobierzesz [ten](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-18-1-free.10885/) plugin!
 
-Częściowe spolszczenie nasz Team zamieścił [tutaj]()
+Częściowe spolszczenie nasz Team zamieścił [tutaj](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-gadgetsmenu-premium.md)
 
 ![HypixelVault](https://i.imgur.com/9yUWiZP.png)
 
@@ -46,7 +46,7 @@ Plugin ten nie wątpliwie zawiera dużo permsiji. Wszytkie znajdziesz na oficjal
 
 # Alonso Levels -  System lewelowania jak z Hypixela
 
-Jeżeli szukałeś pluginu na system lewelowania oraz monet taki jak z Hypixela, świetnie znalazłeś. [Alosno levels]() [[PRO]]() to najlepszy plugin do tego.
+Jeżeli szukałeś pluginu na system lewelowania oraz monet taki jak z Hypixela, świetnie znalazłeś. [Alosno levels](https://www.spigotmc.org/resources/%E2%9C%85-alonsolevels-1-8-1-18-%E2%80%A2-add-levels-to-your-network-rewards-database-hikaricp.83380/) [[PRO]](https://www.spigotmc.org/resources/%E2%9C%85-alonsolevels-pro-1-8-1-18-%E2%80%A2-add-levels-to-your-network-rewards-mysql-hikaricp-custom-slots.85968/) to najlepszy plugin do tego.
 
 
 W tym pluginie zrobisz:
@@ -56,7 +56,7 @@ W tym pluginie zrobisz:
 - Nagrody za lewele
 
 Ponadto możesz zkonfigurować ten plugin z innymi! Na przykład: Vault, PlayerPoints lub CoinsAPI.
-Nasz Team zamieścił częściowe spolszczenie tego pluginu [tutaj]()!
+Nasz Team zamieścił częściowe spolszczenie tego pluginu [tutaj](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-alonsolevelspro.md)!
 
 ![DerpMCSideBar](https://i.imgur.com/ltQHlFP.png)
 
@@ -92,3 +92,6 @@ Nasz Team zamieścił częściowe spolszczenie tego pluginu [tutaj]()!
   - Permisja: alonsolevels.admin
 
 *ScreenShoty zostały zapożyczone z serwerów: Mc.Hypixel.Net, DerpMc.PL oraz Feerko.PL.*
+
+---
+
