@@ -10,6 +10,10 @@
 - [Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#alonso-levels----system-lewelowania-jak-z-hypixela)
   - [Permisjie Pluginu Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisjie-pluginu-alonso-levels)
 
+## Pluginy:
+
+---
+
 # Supper Lobby Deluxe -  Zmień swoje Lobby na lepsze!
 Plugin [Super Lobby Deluxe]() pozwala na znaczne ulepszenie Lobby serwera. Możesz w nim: Zrobić własny scoreboard, edytować tabliste, dodać wiadomość powitalną, dodać profil gracza, otwierać menu trybów, dodać własny boss-bar i wiele wiele więcej!
 
@@ -33,6 +37,8 @@ Polecamy kupić wersje [PREMIUM](https://www.spigotmc.org/resources/gadgetsmenu-
 
 ## Permisjie Pluginu GadgetsMenu
 Plugin ten nie wątpliwie zawiera dużo permsiji. Wszytkie znajdziesz na oficjalnej [WIKI](https://github.com/yapzhenyie/GadgetsMenu/wiki/Permissions) Autora pluginu. 
+
+---
 
 # Alonso Levels -  System lewelowania jak z Hypixela
 
