@@ -6,10 +6,14 @@
 - [Anti-DDoS](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
 - [Anti-VPN](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-vpn)
 
+---
+
 # Anti-Crash
 **UWAGA!** Jeżeli masz serwer na najnowszej wersji, to nie będziesz potrzebował zabezpieczenia typu Anti-Crash. Paper naprawia w większości znane błędy pozwalające crashować serwer, a każdy nowy naprawia w chwilę.
 
 Jeśli korzystasz ze starszej wersji, zainteresuj się pluginem [ExploitFixer](https://www.spigotmc.org/resources/2ls-exploitfixer-the-ultimate-antiexploit-plugin.62842/). Z płatnych polecamy SafeMC który można zakupić na [discordzie](https://discord.com/invite/vSxAYAtzqv).
+
+---
 
 # Anti-Bot
 ### DARMOWE:
@@ -20,12 +24,16 @@ Jeśli korzystasz ze starszej wersji, zainteresuj się pluginem [ExploitFixer](h
 ### PŁATNE:
 - [BotSentry](https://www.spigotmc.org/resources/%E2%9A%A1-botsentry-%E2%9A%A1-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.55924/) - Kompatybilny z bukkitem, bungeecordem i velocity. Bardzo intuicyjny, z zaawansowanym podglądem na ataki i zarządzaniem
 
+---
+
 # Anti-DDoS
 Jeżeli twój Hosting nie posiada Anti-DDoS'a lub jest bardzo słaby,
 
 Zalecamy użycie jednego z najlepszych obecnie Anti-DDos’a [TCPShields](https://tcpshield.com/), który posiada wersje Darmową (idealna do 30 graczy).
 
 Każdy hosting używający dedyków od [OVH](https://ovhcloud.com) posiada najlepszy Anti-DDoS GAME+.
+
+---
 
 # Anti-VPN
 
