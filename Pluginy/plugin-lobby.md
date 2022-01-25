@@ -8,7 +8,7 @@
   - [Permisjie Pluginu GadgetsMenu](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisjie-pluginu-gadgetsmenu)
 
 - [Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#alonso-levels----system-lewelowania-jak-z-hypixela)
-  - [Permisjie Pluginu Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#Permisje-Pluginu-AlonsoLevels)
+  - [Permisjie Pluginu Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisjie-pluginu-alonso-levels)
 
 # Supper Lobby Deluxe -  Zmień swoje Lobby na lepsze!
 Plugin [Super Lobby Deluxe]() pozwala na znaczne ulepszenie Lobby serwera. Możesz w nim: Zrobić własny scoreboard, edytować tabliste, dodać wiadomość powitalną, dodać profil gracza, otwierać menu trybów, dodać własny boss-bar i wiele wiele więcej!
