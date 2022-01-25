@@ -7,7 +7,7 @@
 - [GadgetsMenu](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#gadgetsmenu----dodaj-gad%C5%BCety-na-serwer)
   - [Permisjie Pluginu GadgetsMenu](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#permisjie-pluginu-gadgetsmenu)
 
-- [Alonso Levels]()
+- [Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#alonso-levels----system-lewelowania-jak-z-hypixela)
   - [Permisjie Pluginu Alonso Levels](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md#Permisje-Pluginu-AlonsoLevels)
 
 # Supper Lobby Deluxe -  Zmień swoje Lobby na lepsze!
