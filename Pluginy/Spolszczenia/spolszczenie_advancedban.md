@@ -1,4 +1,4 @@
-# Spolszczenie AdvancedBan
+# Spolszczenie AdvancedBan przez xDawid
 
 ```
 General:
