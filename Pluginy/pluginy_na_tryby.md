@@ -2,7 +2,7 @@
 ## Spis treści:
 - [SkyBlock](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md#Pluginy-na-SkyBlock)
 - [BedWars](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md#Pluginy-na-BedWarsy)
-- [CashBlock](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md#Pluginy-na-CashBlocka)
+- [Prison](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy_na_tryby.md#Pluginy-na-Prison)
 
 ## Pluginy:
 
@@ -20,4 +20,6 @@ Bedwars to obecnie, jeden z najpopularniejszych, jak nie najpopularniejszy tryb/
 
 ---
 
-# Pluginy na CashBlocka
+# Pluginy na Prison
+
+Tryb Prison polega na zbieraniu surowców, sprzedawaniu ich i kupowaniu następnych sektorów w takim jakby "więzieniu". Jest popularny za granicą. Ciekawym płatnym pluginem na ten tryb jest [Ultra Prison Core](https://www.spigotmc.org/resources/sale-%E2%9A%A1ultra-prison-core-%E2%9A%A1%EF%B8%8F-1-8-1-17-all-in-one-solution-for-your-prison-server.86845/). Dzięki niemu, możesz stworzyć niemal cały tryb jednym pluginem!
