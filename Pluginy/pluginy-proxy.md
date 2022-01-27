@@ -114,7 +114,7 @@ Tłumaczenie znajdziesz [tutaj]()
 
 # Anti-Bot
 W dobach dzisijeszego community Minecrafta zdarzają się osoby które wykorzystają każdą okazje aby zniszczyć serwer Minecarft. By się przed tym bronić, zainstaluj plugin Anti-Bot i chroń się przed atakami! Jeżeli nie wiesz jaki wybrać, zobacz na nasze propozycje poniżej:
-### Darowe oprogramowanie Anti-Bot:
+### Darmowe oprogramowanie Anti-Bot:
 - [2LS AntiBot](https://www.spigotmc.org/resources/2ls-antibot-the-ultimate-antibot-plugin.62847/) - Kompatybilny tylko z bungeecordem
 - [EpicGuard](https://www.spigotmc.org/resources/%E2%AD%90-epicguard-protect-your-server-from-bots-more-%E2%AD%90.72369/) - Kompatybilny z bukkitem, bungeecordem i velocity
 - [nAntiBot](https://www.nickuc.com/en/details/nantibot) - Kompatybilny z bungeecordem i velocity
