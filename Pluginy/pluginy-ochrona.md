@@ -2,8 +2,8 @@
 
 ## Spis treści:
 - [Anti-Crash](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
-- [Anti-Bot](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
-- [Anti-DDoS](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-crash)
+- [Anti-Bot](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-bot)
+- [Anti-DDoS](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-ddos)
 - [Anti-VPN](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md#anti-vpn)
 
 ---
