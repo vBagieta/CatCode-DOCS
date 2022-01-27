@@ -25,7 +25,7 @@ Jeśli korzystasz ze starszej wersji, zainteresuj się pluginem [ExploitFixer](h
 - [BotSentry](https://www.spigotmc.org/resources/%E2%9A%A1-botsentry-%E2%9A%A1-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.55924/) - Kompatybilny z bukkitem, bungeecordem i velocity. Bardzo intuicyjny, z zaawansowanym podglądem na ataki i zarządzaniem
 
 
-  *Pluginy na Anti-Bot zostały sporządzane przez [JakubK15](https://github.com/Jakubk15/)*
+  *Pluginy na Anti-Bot oraz Anti-Crash zostały sporządzane przez [JakubK15](https://github.com/Jakubk15/)*
 
 ---
 
