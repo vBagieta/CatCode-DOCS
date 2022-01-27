@@ -84,7 +84,7 @@ Posiadasz pare lobby, a gracze są przenoszeni tylko na jedno? Chcesz dodac kome
   - `PROGRESSIVE` - Pierwszy serwer który nie jest pełny.
   - `PROGRESSIVE_LOWEST` - Pierwszy serwer z najmniejszą ilością osób.
   - `PROGRESSIVE_FILLER` - Pierwszy serwer z największą ilośćią osób, ale nie pełny.
-  - `EXTERNAL` - Przezuca gracza według innego pluginu.
+  - `EXTERNAL` - Przezuca gracza według innego pluginu. (Wykorzystującego API PlayerBalancer)
 
 ### Permisje pluginu Player Balancer
  - `playerbalancer.bypass` - gracz z tą permisją nie może byc przenoszony na inny serwer. Zalecamy ustawienie tej Permisji na `false`.
