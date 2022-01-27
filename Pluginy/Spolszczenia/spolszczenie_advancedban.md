@@ -1,4 +1,4 @@
-# Spolszczenie AdvancedBan przez xDawid
+# Spolszczenie pluginu [AdvancedBan](https://www.spigotmc.org/resources/advancedban.8695/) przez [xDawid](https://github.com/xDawid) 
 
 ```
 General:
