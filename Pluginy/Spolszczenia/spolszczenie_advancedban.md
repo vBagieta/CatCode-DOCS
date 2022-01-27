@@ -2,8 +2,8 @@
 
 ```
 General:
-  Prefix: "&7&l[&3&lKrystal&f&lSMP.pl&7&l] &f&l-"
-  NoPerms: "&7&l[&3&lKrystal&f&lSMP.pl&7&l] &f&l- &c&lNieznana komenda!"
+  Prefix: "&c&lBany &8&l- "
+  NoPerms: "&c&lBany &8&l- &c&lNieznana komenda!"
   LayoutNotFound: "&4Błąd: &cNie odnaleziono gracza o nazwie: %NAME%"
   TimeLayoutD: "%D% dni. %H% godz. %M% min. %S% sek."
   TimeLayoutH: "%H% godz. %M% min. %S% sek."
