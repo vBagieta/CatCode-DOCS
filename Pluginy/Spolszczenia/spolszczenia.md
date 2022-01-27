@@ -12,6 +12,8 @@
 - [Combat Plus](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-combatplus.md)
 - [AdvancedBan](https://github.com/vBagieta/CatCode-DOCS/blob/main/Pluginy/Spolszczenia/spolszczenie_advancedban.md)
 
-Jeżeli posiadasz spolszczenie jakiegoś pluginu wyslij je nam! Zostaniesz na nim zonaczony! (Albo stwórz Pull Request stosując się do wzoru: ./Spolszczenie/spolsczenie-nazwa-pluginu.md)
+Jeżeli posiadasz spolszczenie jakiegoś pluginu wyslij je nam! Zostaniesz na nim zonaczony!
+
+(Albo stwórz Pull Request stosując się do wzoru: ./Spolszczenie/spolsczenie-nazwa-pluginu.md)
 
 Jeżeli chcesz aby jakiś plugin został dodany, kliknij [tutaj](https://github.com/vBagieta/Minecraft/issues)!
