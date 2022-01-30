@@ -32,3 +32,6 @@ biblioteki **[Log4J](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-442
   posiadania patchy Pufferfisha, Airplane'a i swoich - które mają na celu wprowadzić ciekawy gameplay, np. ujeżdzanie
   delfinów, oraz posiada drobne optymalizacje sieci.
 
+# Nie polecane silniki
+
+- Większość płatnych silników z [MC-Market], z tego powodu, że zazwyczaj mają nie dobry kod. Przykładem takich silników są np.: aSpigot, mSpigot. 
