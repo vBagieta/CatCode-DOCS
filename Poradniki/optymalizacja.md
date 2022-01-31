@@ -15,7 +15,7 @@ Gotowe pliki (bukkit.yml, spigot.yml, paper.yml, purpur.yml) znajdziesz [tutaj](
 Należy wgrać je na serwer i zrestartować go.
 # Wygenerowanie mapy
 
-Minecraft jest grą z losowo generowanym, masywnym światem - jego granice sięgają aż bloków ±30 000 000 długości i szerokości oraz od -64 do 320 wysokości (w starszych wersjach, niż 1.18 od 0 do 256). Wygenerowanie tak dużego świata trwałoby wiele godzin (być może dni), nawet na najszybszych domowych komputerach. Dlatego Mojang zdecydował się na **generowania chunków** (klastrów 16x16x256 bloków) w miare, **jak gracze się do nich zbliżają**.
+Minecraft jest grą z losowo generowanym, masywnym światem - jego granice sięgają aż ±30 000 000 bloków długości i szerokości oraz od -64 do 320 wysokości (w starszych wersjach, niż 1.18 od 0 do 256). Wygenerowanie tak dużego świata trwałoby wiele godzin (być może dni), nawet na najszybszych domowych komputerach. Dlatego Mojang zdecydował się na **generowania chunków** (klastrów 16x16x256 bloków) w miare, **jak gracze się do nich zbliżają**.
 
 O ile w grze single-player ma to małe znaczenie, to na serwerze kilku-kilkunastu graczy eksplorujących świat powoduje, że generator chunków znacznie **obciąża CPU** i w konsekwencji **spadek TPS**. By temu zapobiec wystarczy przed **rozpoczęciem zabawy wygenerować obszar świata o rozmiarze odpowiadający naszym potrzebom**.
 
