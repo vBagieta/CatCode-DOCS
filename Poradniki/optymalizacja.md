@@ -8,7 +8,10 @@ Jeżeli twój serwer nie działa tak szybko, jak na jego możliwośći, możesz 
 - [Zrobienie Timingów serwera]()
 
 # Zoptymalizowane pliki.
+Podstawą zrobienia dobrego serwera Minecarft są dobrze zoptymalizowane pliki 
+Gotowe pliki (bukkit.yml, spigot.yml, paper.yml, purpur.yml) znajdziesz [tutaj](https://mclist.io/resource/optimized-1-16-5)!
 
+Należy wgrać je na serwer i zrestartować go.
 # Wygenerowanie mapy
 Minecraft jest grą z losowo generowanym, masywnym światem - jego granice sięgają aż ±30 000 000 długości i szerokości oraz 0-255 wysokości. Wygenerowanie tak dużego świata trwałoby wiele godzin (być może dni), nawet na najszybszych domowych komputerach. Dlatego Mojang zdecydował się na **generowania chunków** (klastrów 16x16x256 bloków) w miare, **jak gracze się do nich zbliżają**.
 
