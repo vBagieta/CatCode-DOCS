@@ -3,6 +3,8 @@ Jeżeli twój serwer nie działa tak szybko, jak na jego możliwośći, możesz 
 ### Spis treści:
 - [Zoptymalizowane pliki]()
 - [Wygenerowanie mapy](#spigot-i-jego-forki)
+  - [Forge](#forge)
+  - [Sponge](#sponge)
 - [Zrobienie Timingów serwera]()
 
 # Zoptymalizowane pliki.
