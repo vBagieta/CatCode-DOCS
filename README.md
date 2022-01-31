@@ -36,6 +36,8 @@ Nasz oficjalny serwer [**Discord**](https://discord.gg/AEpaGYdTEk).
 # Poradniki
 
 - [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
+- 
+- [Opymalizacja serwera](https://github.com/vBagieta/CatCode-DOCS/blob/main/Poradniki/optymalizacja.md)
 
 - [Czego warto unikać?](https://github.com/vBagieta/Minecraft/blob/main/Poradniki/warto-unikac.md)
 
