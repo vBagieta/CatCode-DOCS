@@ -8,13 +8,13 @@ Jeżeli twój serwer nie działa tak szybko, jak na jego możliwośći, możesz 
 - [Zrobienie Timingów serwera](#Zrobienie-Timingów-serwera)
 
 # Zoptymalizowane pliki
-===============
+
 Podstawą zrobienia dobrego serwera Minecarft są dobrze zoptymalizowane pliki 
 Gotowe pliki (bukkit.yml, spigot.yml, paper.yml, purpur.yml) znajdziesz [tutaj](https://mclist.io/resource/optimized-1-16-5)!
 ---
 Należy wgrać je na serwer i zrestartować go.
 # Wygenerowanie mapy
-===============
+
 Minecraft jest grą z losowo generowanym, masywnym światem - jego granice sięgają aż ±30 000 000 długości i szerokości oraz 0-255 wysokości. Wygenerowanie tak dużego świata trwałoby wiele godzin (być może dni), nawet na najszybszych domowych komputerach. Dlatego Mojang zdecydował się na **generowania chunków** (klastrów 16x16x256 bloków) w miare, **jak gracze się do nich zbliżają**.
 
 O ile w grze single-player ma to małe znaczenie, to na serwerze kilku-kilkunastu graczy eksplorujących świat powoduje, że generator chunków znacznie **obciąża CPU** i w konsekwencji **spadek TPS**. By temu zapobiec wystarczy przed **rozpoczęciem zabawy wygenerować obszar świata o rozmiarze odpowiadający naszym potrzebom**.
@@ -42,7 +42,9 @@ Aby wykonać proces generowania świata, wystarczy ściągnąć i zainstalować 
 * `/wb shape <elliptic|rectangular>` - pozwala wybrać kształt granicy. `elliptic` to eliptyczna/okrągła, `rectangular` - prostokątna.
 * `/wb fill [częstotliwość]` - rozpoczyna generowanie chunków z domyślną częstotliwością 20 prób na sekundę. Dla serwerów Grass należy ją zmniejszyć do 5. Na serwerach Diamond można spróbować nawet wartość 100. **Im mniejsza wartość, tym mniejsze lagi w trakcie generowania świata, ale też dłużej to trwa.**
 * `/wb fill confirm` - komenda ta jest potrzebna do potwierdzenia rozpoczęcia `/wb fill`.
+
 ---
+
 ## Forge
 Pregenerowanie mapy na serwerach **Forge** jest odrobinę bardziej skomplikowane, ponieważ mody ingerujące w wygląd świata niekoniecznie są ze sobą kompatybilne.
 ---
@@ -79,7 +81,7 @@ Na Sponge, natomiast, można wykorzystać odpowiednik pluginu Essentials - **[Pl
 
 ---
 # Zrobienie Timingów serwera
-===============
+
 Pierwszym krokiem jaki należy podjąć w przypadku problemów z lagami jest określenie ich natury - czy winna jest strona klienta, serwera czy może dostawca łącza internetowego.
 
 Ticks per second
