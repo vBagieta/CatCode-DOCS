@@ -36,7 +36,7 @@ Aby wykonać proces generowania świata, wystarczy ściągnąć i zainstalować 
 * `/wb fill [częstotliwość]` - rozpoczyna generowanie chunków z domyślną częstotliwością 20 prób na sekundę. Dla serwerów Grass należy ją zmniejszyć do 5. Na serwerach Diamond można spróbować nawet wartość 100. **Im mniejsza wartość, tym mniejsze lagi w trakcie generowania świata, ale też dłużej to trwa.**
 * `/wb fill confirm` - komenda ta jest potrzebna do potwierdzenia rozpoczęcia `/wb fill`.
 
-# Forge
+## Forge
 Pregenerowanie mapy na serwerach **Forge** jest odrobinę bardziej skomplikowane, ponieważ mody ingerujące w wygląd świata niekoniecznie są ze sobą kompatybilne.
 
 ### Wersje od 1.10 do 1.12.2
