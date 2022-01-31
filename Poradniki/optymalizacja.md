@@ -72,5 +72,5 @@ Na Sponge, natomiast, można wykorzystać odpowiednik pluginu Essentials - **[Pl
 
 * `world border gen -r <world>` - rozpoczyna tworzenie nowych chunków.
 
-
+*Zróło: https://github.com/craftserve/docs*
 # Zrobienie Timingów serwera
