@@ -2,6 +2,7 @@
 
 ## Spis treśći:
 - [Emerald Bank]()
+- [Insights](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/)
 
 ## Pluginy:
 
@@ -17,3 +18,5 @@ Jeżeli boisz się, że gracze będą kopiowali szmaragdy, wyłącz możliwość
 Spolszczenie Emerald Bank skopiujesz [tutaj](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/Spolszczenia/spolszczenie-emerald-bank.md)!
 
 ---
+
+## Insights - limity bloków na chunk
