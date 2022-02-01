@@ -19,4 +19,4 @@ Spolszczenie Emerald Bank skopiujesz [tutaj](https://github.com/vBagieta/Minecra
 
 ---
 
-## Insights - limity bloków na chunk
+## Insights - limity bloków na chunk i skanowanie w poszukiwaniu lagów.
