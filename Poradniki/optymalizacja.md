@@ -111,3 +111,5 @@ Tak uzyskany link możesz wkleić na nasz Discord, by uzyskać rady co do optyma
 [**Interpretacja timingów** - tłumaczenie autorstwa artur9010](https://ucraft.pl/forum/thread/188-czym-sa-i-jak-interpretowac-timmingi/)
 
 *Zróło: https://github.com/craftserve/docs*
+
+
