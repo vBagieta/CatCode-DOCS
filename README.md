@@ -31,7 +31,7 @@ Nasz oficjalny serwer [**Discord**](https://discord.gg/AEpaGYdTEk).
 
 # Hostingi
 
-- [Polecane Hostingi](https://github.com/vBagieta/Minecraft/blob/main/Hostingi/polecane_hostingi.md)
+- [Polecane & Nie polecane Hostingi](https://github.com/vBagieta/Minecraft/blob/main/Hostingi/polecane_hostingi.md)
 
 # Poradniki
 
