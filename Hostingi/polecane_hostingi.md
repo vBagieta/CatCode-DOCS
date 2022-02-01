@@ -13,6 +13,5 @@
 # Nie polecane hostinngi Minecarft.
 
 - [TitanAxe](https://titanaxe.com) - Hosting który oszukuje na pamięć RAM (Według obliczeń dostajesz około 0,3GB RAMu mniej, w panelu widnieje informacja że serwer potzrebuje więcej RAMu (Co jest nie prawdą.) Z plusów tego Hostingu to: Mozlwiosc wgrania własnego silnika, dostęp FTP, baza danych MySQL, przyjazny respinsywny panel, możliwość zaplanowania harmonogramu serwera.
-- [Craftserve](https://craftserve.pl) - Totalnie nie opłacalny serwer. Myślisz ze pakiet Diamond to biznes życia? Oj nie. Serwery są usypianie. Nie możesz wgrać własnego silnika, panel jest mało responswyny oraz utrudnia prace w explatowaniu serwera oraz brak mozlwiosc wybrania własnej JAVY przekonują nas, ze nie warto inwestować w ten hosting.
-- [Creeper](https://creeper.pl) -
+- [Craftserve](https://craftserve.pl) - Totalnie nie opłacalny serwer. Myślisz ze pakiet Diamond to biznes życia? Oj nie. Serwery są usypianie. Nie możesz wgrać własnego silnika, panel jest mało responswyny oraz utrudnia prace w eksploatowaniu serwera oraz brak możliwości wybrania własnej dystrybucji Javy. Przekonują nas, ze nie warto inwestować w ten hosting.
 - [Enderchest](https://enderchest.pl) 
