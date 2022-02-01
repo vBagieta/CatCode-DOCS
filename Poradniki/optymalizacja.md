@@ -9,8 +9,9 @@ Jeżeli twój serwer nie działa tak szybko, jak na jego możliwośći, możesz 
 
 # Zoptymalizowane pliki
 
-Podstawą zrobienia dobrego serwera Minecarft są dobrze zoptymalizowane pliki 
-Gotowe pliki (bukkit.yml, spigot.yml, paper.yml, purpur.yml) znajdziesz [tutaj](https://mclist.io/resource/optimized-1-16-5)!
+Podstawą zrobienia dobrego serwera Minecarft są dobrze zoptymalizowane pliki.
+
+Zalecamy użyć poradnika https://eternity.community/index.php/paper-optimization/ aby tego dokonać.
 ---
 Należy wgrać je na serwer i zrestartować go.
 # Wygenerowanie mapy
