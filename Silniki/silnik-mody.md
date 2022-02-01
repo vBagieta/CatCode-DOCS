@@ -9,9 +9,9 @@
 - [Fabric](https://fabricmc.net/use/server/) - Silnik wspierający mody pisane pod Fabric'a, zaletą tego oprogramowania jest fakt, że łatwo go zoptymalizować przez co gra na słabszych komputerach stanie sie przyjemnijesza.
 
 
-- [Magma](https://magmafoundation.org/) - Silnik wspierający mody pisane pod Forge'a oraz Pluginy pisane pod API Bukkita. Zaletą jest wysoka optymalizacja oraz Open Source.
+- [Magma](https://magmafoundation.org/) - Silnik wspierający mody pisane pod Forge'a oraz Pluginy pisane pod API Bukkita. Zaletą jest to, że silnik jest Open Source, natomiast jest bardzo niestabilny i może powodować lagi, w zależności od modów.
 
 
-- [Mohist](https://essentialsx.net/do-not-use-mohist.html) - Silnik wspierający mody pisane pod Forge'a oraz Pluginy pisane pod API Bukkita. Niestety silnik nie jest bezpieczny w eksplatowaniu, nie zaleca się jego użycia. Więcej informacji na ten temat możesz przeczytać [tutaj](https://essentialsx.net/do-not-use-mohist.html)
+- [Mohist](https://essentialsx.net/do-not-use-mohist.html) - Silnik wspierający mody pisane pod Forge'a oraz Pluginy pisane pod API Bukkita. Niestety silnik nie jest bezpieczny w eksploatowaniu, nie zaleca się jego użycia. Więcej informacji na ten temat możesz przeczytać [tutaj](https://essentialsx.net/do-not-use-mohist.html)
 
 *Należy zaznaczyć, że niektóre pluginy nie będą działały na tych silnikach np. EssentialsX lub ViaVersion*
