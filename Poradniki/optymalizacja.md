@@ -1,4 +1,4 @@
-# Prosty poradnik jak zoptymalizować serwer Minecarft
+# Prosty poradnik jak zoptymalizować serwer Minecraft
 Jeżeli twój serwer nie działa tak szybko, jak na jego możliwośći, możesz skorzystać z naszych propozycji aby zoptymalizować serwer.
 ### Spis treści:
 - [Zoptymalizowane pliki](#Zoptymalizowane-pliki)
