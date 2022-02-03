@@ -48,8 +48,6 @@ Nasz oficjalny serwer [**Discord**](https://discord.gg/AEpaGYdTEk).
 
 - [vBagieta](https://github.com/vBagieta/) DC: vBagieta#0786
 
-- [vKvbusiek](https://github.com/Kvbusiek/) DC: vKvbusiek_#0001
-
 - [Ozander16](https://github.com/Ozander16/) DC: !!! Ozander#9888
 
 - [Jakubk15](https://github.com/Jakubk15/) DC: Jakubk15#0524
