@@ -1,5 +1,8 @@
 # Spolszczenie [GadgetsMenu Premium](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-18-1-premium.62831/) przez [vBagieta](https://github.com/vBagieta)
 ### Spolszczenie nie jest gotowe w 100%!
+**Poniżej jest pare spolszczeń!**
+
+PLIK MESSAGES.YML
 ```
 Prefix: ''
 GUI-Menus:
@@ -951,3 +954,709 @@ Removed-Pet-Item-From-Player: '{PREFIX}&6{AMOUNT} &e{PET_ITEM} &ehas been remove
 Set-Pet-Item: '{PREFIX}&eYou''ve set &6{AMOUNT} &e{PET_ITEM} &epet item for &6{PLAYER}&e.'
 Set-Player-Pet-Item: '{PREFIX}&eYour &e{PET_ITEM} &epet item have been set to &6{AMOUNT}&e.'
 Cosmetic-Reset-Completed: '&aCosmetic reset completed.'
+
+```
+
+PLIK MYSTERY BOXES.YML
+
+```
+Mystery-Boxes:
+  Enabled: true
+  Loots-Can-Be-Found:
+    Hats: true
+    Animated Hats: true
+    Particles: true
+    Suits: true
+    Gadgets: true
+    Pets: true
+    Miniatures: true
+    Banners: true
+    Morphs: true
+    Emotes: true
+    Cloaks: true
+  Chances:
+    One-Star:
+      Common: 70
+      Rare: 15
+      Epic: 10
+      Legendary: 5
+    Two-Star:
+      Common: 70
+      Rare: 18
+      Epic: 12
+      Legendary: 6
+    Three-Star:
+      Common: 58
+      Rare: 20
+      Epic: 15
+      Legendary: 7
+    Four-Star:
+      Common: 52
+      Rare: 22
+      Epic: 18
+      Legendary: 8
+    Five-Star:
+      Rare: 40
+      Epic: 50
+      Legendary: 10
+  Rarity:
+    Common: '&aPospolite'
+    Rare: '&9Rzadkie'
+    Epic: '&5Epickie'
+    Legendary: '&6Legendarne'
+  Execute-Command:
+    Enabled: true
+    Command: lp user {PLAYER} permission set {PERMISSION}
+  Found-Loot:
+    Common:
+      Give-Pet-Items:
+        Enabled: true
+        Min: 20
+        Max: 30
+      Play-Sound:
+        Sound: ENTITY_CHICKEN_EGG
+      Send-Message:
+        Enabled: true
+        Message:
+        - '&a&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '                &a&lTajemnicza skrzynia'
+        - ''
+        - '     &fZwykłe znalezisko:'
+        - '     &a&l{LOOT}'
+        - ''
+        - '&a&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+    Rare:
+      Give-Pet-Items:
+        Enabled: true
+        Min: 25
+        Max: 35
+      Play-Sound:
+        Enabled: true
+        Sound: ENTITY_VILLAGER_AMBIENT
+      Send-Message:
+        Enabled: true
+        Message:
+        - '&9&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '                &9&lTajemnicza skrzynia'
+        - ''
+        - '     &fRzadkie znalezisko:'
+        - '     &9&l{LOOT}'
+        - ''
+        - '&9&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+    Epic:
+      Give-Pet-Items:
+        Enabled: true
+        Min: 35
+        Max: 40
+      Play-Sound:
+        Enabled: true
+        Sound: ENTITY_PLAYER_LEVELUP
+      Send-Message:
+        Enabled: true
+        Message:
+        - '&5&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '                &5&lTajemnicza skrzynia'
+        - ''
+        - '     &fEpickie znalezisko:'
+        - '     &d&l{LOOT}'
+        - ''
+        - '&5&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+    Legendary:
+      Give-Pet-Items:
+        Enabled: true
+        Min: 35
+        Max: 45
+      Play-Sound:
+        Enabled: true
+        Sound: ENTITY_ENDER_DRAGON_AMBIENT
+      Send-Message:
+        Enabled: true
+        Message:
+        - '&6&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '                &6&lTajemnicza skrzynia'
+        - ''
+        - '     &fLegendarne znalezisko:'
+        - '     &e&l{LOOT}'
+        - ''
+        - '&6&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+  Already-Had-Loot:
+    Common:
+      Give-Mystery-Dust:
+        Enabled: true
+        Min: 1
+        Max: 3
+      Send-Message:
+        Enabled: false
+        Message:
+        - '&7Już posiadasz &aPospolity &e{LOOT} &7wiec'
+        - '&7Dostajesz &e{MYSTERY_DUST}x monet&7.'
+      Execute-Command:
+        Enabled: false
+        Command: points give {PLAYER} 100
+    Rare:
+      Give-Mystery-Dust:
+        Enabled: true
+        Min: 4
+        Max: 8
+      Send-Message:
+        Enabled: false
+        Message:
+        - '&7Już posiadasz &9Rzadki &e{LOOT} &7wiec'
+        - '&7Dostajesz &e{MYSTERY_DUST}x monet&7.'
+      Execute-Command:
+        Enabled: false
+        Command: points give {PLAYER} 500
+    Epic:
+      Give-Mystery-Dust:
+        Enabled: true
+        Min: 9
+        Max: 25
+      Send-Message:
+        Enabled: false
+        Message:
+        - '&7Już posiadasz &5Epicki &e{LOOT} &7wiec'
+        - '&7Dostajesz &e{MYSTERY_DUST}x monet&7.'
+      Execute-Command:
+        Enabled: false
+        Command: points give {PLAYER} 1000
+    Legendary:
+      Give-Mystery-Dust:
+        Enabled: true
+        Min: 26
+        Max: 36
+      Send-Message:
+        Enabled: false
+        Message:
+        - '&7Już posiadasz &7Legendarny &e{LOOT} &7wiec'
+        - '&7Dostajesz &e{MYSTERY_DUST}x monet&7.'
+      Execute-Command:
+        Enabled: false
+        Command: points give {PLAYER} 10000
+  Holograms:
+    Found-Loot:
+      Common: '&aPospolity {LOOT}'
+      Rare: '&9Rzadki {LOOT}'
+      Epic: '&5Epicki {LOOT}'
+      Legendary: '&6Legendarny {LOOT}'
+    Mystery-Vault:
+      Line-1: '&bTajemnicza skrzynia'
+      Line-2: '&e&lPRAWY PRZYCISK'
+    Individual-Holograms:
+      Enabled: true
+      Available-Mystery-Boxes:
+      - '&cMasz {MYSTERY_BOXES} skrzynek'
+      - '&eMasz {MYSTERY_BOXES} skrzynek'
+      - '&aMasz {MYSTERY_BOXES} skrzynek'
+      - '&9Masz {MYSTERY_BOXES} skrzynek'
+      - '&dMasz {MYSTERY_BOXES} skrzynek'
+      Zero-Mystery-Box-Available: '&cNie masz skrzynek :('
+    Hologram-Height: 1.21
+  Broadcast:
+    Opening-Mystery-Box:
+      Enabled: true
+      Message: '&6[Tajemnicza skrzynia] &7{PLAYER} &rotwiera Mystery Boxa.'
+    Found-Loot:
+      Common:
+        Enabled: true
+        Message: '&6[Tajemnicza skrzynia] &7{PLAYER} &rznalazl &aZwykle {LOOT}&r!'
+      Rare:
+        Enabled: true
+        Message: '&6[Tajemnicza skrzynia] &7{PLAYER} &rznalazl &9Rzadkie {LOOT}&r!'
+      Epic:
+        Enabled: true
+        Message: '&6[Tajemnicza skrzynia] &7{PLAYER} &rznalazl &5Epickie {LOOT}&r!'
+      Legendary:
+        Enabled: true
+        Message: '&6[Tajemnicza skrzynia] &7{PLAYER} &rznalazl &6Legendarne {LOOT}&r!'
+    Found-Mystery-Box:
+      One-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e✰&7✰✰✰✰ &fMystery Box!'
+      Two-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e&e✰✰&7✰✰✰ &fMystery Box!'
+      Three-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e✰✰✰&7✰✰ &fMystery Box!'
+      Four-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e&e✰✰✰✰&7✰ &fMystery Box!'
+      Five-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e&e✰✰✰✰✰ &fMystery Box!'
+  Mystery-Boxes-Reward:
+    Enabled: true
+    Allow-AFK: false
+    Chance-To-Get-Mystery-Box: 75
+    Chance:
+      One-Star: 5
+      Two-Star: 10
+      Three-Star: 60
+      Four-Star: 20
+      Five-Star: 5
+    Expiry-Date-In-Days: 7
+    Play-Time:
+      Hours: 0
+      Minutes: 40
+      Seconds: 0
+    Enabled-Worlds:
+    - '*'
+    Message:
+      One-Star: '&7Znalazłes &e✰&7✰✰✰✰ &6Tajemnicza skrzynie'
+      Two-Star: '&7Znalazłes &e✰✰&7✰✰✰ &6Tajemnicza skrzynie'
+      Three-Star: '&7Znalazłes &e✰✰✰&7✰✰ &6Tajemnicza skrzynie'
+      Four-Star: '&7Znalazłes &e✰✰✰✰&7✰ &6Tajemnicza skrzynie'
+      Five-Star: '&7Znalazłes &e✰✰✰✰✰ &6Tajemnicza skrzynie'
+  JSON-Messages:
+    Found-Mystery-Box:
+      One-Star:
+        Name: '&6Tajemnicza skrzynia'
+        Lore:
+        - '&7Rzadkosc: &e✰&7✰✰✰✰'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+        Message:
+        - '&6tajemnicza skrzynia'
+        - '&7Rzadkosc: &e✰&7✰✰✰✰'
+        - '&7Mozesz znalesc ta &6Tajemnicza skrzynie'
+        - '&7Grajac na naszym serwerze.'
+      Two-Star:
+        Name: '&6Tajemnicza skrzynia'
+        Lore:
+        - '&7Rzadkosc: &e✰✰&7✰✰✰'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+        Message:
+        - '&6Tajemnicza skrzynia'
+        - '&7Rzadkosc: &e✰✰&7✰✰✰'
+        - '&7Mozesz znalesc ta &6Tajemnicza skrzynie'
+        - '&7Grajac na naszym serwerze.'
+      Three-Star:
+        Name: '&6tajemnicza skrzynia'
+        Lore:
+        - '&7Rzadkosc: &e✰✰✰&7✰✰'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+        Message:
+        - '&6Tajemnicza skrzynia'
+        - '&7Rzadkosc: &e✰✰✰&7✰✰'
+        - '&7Mozesz znalesc ta &6Tajemnicza skrzynie'
+        - '&7Grajac na naszym serwerze.'
+      Four-Star:
+        Name: '&6Tajemnicza skrzynia'
+        Lore:
+        - '&7Rzadkosc: &e✰✰✰✰&7✰'
+        - '&7Mozesz znalesc ta &6Tajemnicza skrzynie'
+        - '&7Grajac na naszym serwerze.'
+        Message:
+        - '&6Tajemnicza skrzynia'
+        - '&7Rzadkosc: &e✰✰✰✰&7✰'
+        - '&7Mozesz znalesc ta &6Tajemnicza skrzynie'
+        - '&7Grajac na naszym serwerze.'
+      Five-Star:
+        Name: '&6Tajemnicza skrzynia'
+        Lore:
+        - '&7Rzadkosc: &e✰✰✰✰✰'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+        Message:
+        - '&6tajemnicza skrzynia'
+        - '&7Rzadkosc: &e✰✰✰✰✰'
+        - '&7Mozesz znalesc ta &6Tajemnicza skrzynie'
+        - '&7Grajac na naszym serwerze.'
+    Found-Loot:
+      Common:
+        Name: '&aZwykle {LOOT}'
+        Lore:
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &aZwykle'
+        Message:
+        - '&aCommon {LOOT}'
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &aZwykle'
+      Rare:
+        Name: '&9Rzadkie {LOOT}'
+        Lore:
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &9Rzadka'
+        Message:
+        - '&9Rare {LOOT}'
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &9Rzadka'
+      Epic:
+        Name: '&5Epickie {LOOT}'
+        Lore:
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &5Epickie'
+        Message:
+        - '&5Epic {LOOT}'
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &5Epickie'
+      Legendary:
+        Name: '&6Legendarne {LOOT}'
+        Lore:
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &6Legendarne'
+        Message:
+        - '&6Legendary {LOOT}'
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &6Legendarne'
+    Mystery-Dust:
+      Message:
+      - '&6Tajemniczy proszek'
+      - '&7Możesz go użyc do kupienia'
+      - '&6Tajemniczej skrzyni&7!'
+    Pet-Items:
+      Message:
+      - '&7Zobacz swoje &eGadżety &7oraz'
+      - '&7kliknij na nie by przenieść'
+      - '&7je do ekwipunku.'
+  Types:
+    Normal-Mystery-Box:
+      Name: '&6Tajemnicza skrzynia'
+      Material: ENDER_CHEST
+      Lore:
+        Expiry-Date: '&cWygasa za {EXPIRY_DATE}'
+        Never-Expired: '&7Nie wygasa.'
+        Quality:
+          One-Star:
+          - '&eTa tajemnicza skrzynia zawiera jedno:'
+          - ''
+          - '&aZwykle {ITEM_ONE}'
+          - '&aZwykle {ITEM_TWO}'
+          - '&aZwykle {ITEM_THREE}'
+          - '&aZwykle {ITEM_FOUR}'
+          - '&9Zwykle {ITEM_FIVE}'
+          - '&5Epickie {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7Jakosc: &e✰&7✰✰✰✰'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc'
+          Two-Star:
+          - '&eTa tajemnicza skrzynia zawiera jedno:'
+          - ''
+          - '&aZwykle {ITEM_ONE}'
+          - '&aZwykle {ITEM_TWO}'
+          - '&aZwykle {ITEM_THREE}'
+          - '&9Rzadkie {ITEM_FOUR}'
+          - '&9Rzadkie {ITEM_FIVE}'
+          - '&5Epickie {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7akosc: &e✰✰&7✰✰✰'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc'
+          Three-Star:
+          - '&eTa tajemnicza skrzynia zawiera jedno:'
+          - ''
+          - '&aZwykle {ITEM_ONE}'
+          - '&aZwykle {ITEM_TWO}'
+          - '&9Rzadkie {ITEM_THREE}'
+          - '&9Rzadkie {ITEM_FOUR}'
+          - '&5Epickie {ITEM_FIVE}'
+          - '&5Epickie {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7Jakosc: &e✰✰✰&7✰✰'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc!'
+          Four-Star:
+          - '&eTa tajemnicza skrzynia zawiera jedno:'
+          - ''
+          - '&aZwykle {ITEM_ONE}'
+          - '&9Rzadkie {ITEM_TWO}'
+          - '&5Epickie {ITEM_THREE}'
+          - '&5Epickie {ITEM_FOUR}'
+          - '&6Legendarne {ITEM_FIVE}'
+          - '&6Legendarne {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7Jakosc: &e????&7?'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc'
+          Five-Star:
+          - '&eTa tajemnicza skrzynia zawiera jedno:'
+          - ''
+          - '&9Rzadkie {ITEM_ONE}'
+          - '&5Epickie {ITEM_TWO}'
+          - '&5Epickie {ITEM_THREE}'
+          - '&6Legendarne {ITEM_FOUR}'
+          - '&6Legendarne {ITEM_FIVE}'
+          - '&6Legendarne {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7Jakosc: &e✰✰✰✰✰'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc'
+    Gifted-Mystery-Box:
+      Name: '&ePrezent &6Tajemnicza skrzynia'
+      Material: ENDER_CHEST
+      Lore:
+        One-Star:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&aZwykle {ITEM_THREE}'
+        - '&aZwykle {ITEM_FOUR}'
+        - '&9Rzadkie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'''
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰&7✰✰✰✰'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+        Two-Star:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&aZwykle {ITEM_THREE}'
+        - '&9Rzadkie {ITEM_FOUR}'
+        - '&9Rzadkie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰✰&7✰✰✰'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+        Three-Star:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&9Rzadkie {ITEM_THREE}'
+        - '&9Rzadkie {ITEM_FOUR}'
+        - '&5Epickie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰✰✰&7✰✰'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+        Four-Star:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&9Rzadkie {ITEM_TWO}'
+        - '&5Epickie {ITEM_THREE}'
+        - '&5Epickie {ITEM_FOUR}'
+        - '&6Legendarne {ITEM_FIVE}'
+        - '&6Legendarne {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰✰✰✰&7✰'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+        Five-Star:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&9Rzadkie {ITEM_ONE}'
+        - '&5Epickie {ITEM_TWO}'
+        - '&5Epickie {ITEM_THREE}'
+        - '&6Legendarne {ITEM_FOUR}'
+        - '&6Legendarne {ITEM_FIVE}'
+        - '&6Legendarne {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰✰✰✰✰'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+    Crafted-Mystery-Box:
+      One-Star:
+        Name: '&6Tajemnnicza skrzynia #1'
+        Material: ENDER_CHEST
+        Lore:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&aZwykle {ITEM_THREE}'
+        - '&aZwykle {ITEM_FOUR}'
+        - '&9Rzadkie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰&7✰✰✰✰'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+      Two-Star:
+        Name: '&6Tajemnnicza skrzynia #2'
+        Material: ENDER_CHEST
+        Lore:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&aZwykle {ITEM_THREE}'
+        - '&9Rzadkie {ITEM_FOUR}'
+        - '&9Rzadkie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰✰&7✰✰✰'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+      Three-Star:
+        Name: '&6Tajemnnicza skrzynia #3'
+        Material: ENDER_CHEST
+        Lore:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&9Rzadkie {ITEM_THREE}'
+        - '&9Rzadkie {ITEM_FOUR}'
+        - '&5Epickie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰✰✰&7✰✰'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+      Four-Star:
+        Name: '&6Tajemnnicza skrzynia #4'
+        Material: ENDER_CHEST
+        Lore:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&9Rzadkie {ITEM_TWO}'
+        - '&5Epickie {ITEM_THREE}'
+        - '&5Epickie {ITEM_FOUR}'
+        - '&6Legendarne {ITEM_FIVE}'
+        - '&6Legendarne {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰✰✰✰&7✰'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+      Five-Star:
+        Name: '&6Tajemnnicza skrzynia #5'
+        Material: ENDER_CHEST
+        Lore:
+        - '&eTa tajemnicza skrzynia zawiera jedno:'
+        - ''
+        - '&9Rzadkie {ITEM_ONE}'
+        - '&5Epickie {ITEM_TWO}'
+        - '&5Epickie {ITEM_THREE}'
+        - '&6Legendarne {ITEM_FOUR}'
+        - '&6Legendarne {ITEM_FIVE}'
+        - '&6Legendarne {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e✰✰✰✰✰'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+
+```
+
+PLIK ANIMATIONS.YML
+
+```
+Animations:
+  None:
+    Name: '&6Efekt: &8Brak'
+    Material: BARRIER
+    Enabled: true
+    Mini-Block:
+      Material: ENDER_CHEST
+    Lore:
+    - '&7Ustaw efekt otwerania'
+    - '&7skrzyni na &8Brak'
+  Normal:
+    Name: '&6Efekt: &aNormalny'
+    Material: ENDER_CHEST
+    Enabled: true
+    Mini-Block:
+      Material: ENDER_CHEST
+    Lore:
+    - '&7Ustaw efekt otwerania'
+    - '&7skrzyni na &aNormalny'
+  CountDown:
+    Name: '&6Animation: Countdown'
+    Material: CLOCK
+    Enabled: false
+    Mini-Block:
+      Material: ENDER_CHEST
+    Lore:
+    - '&7Set your mystery vault'
+    - '&7animation to &aCountdown&7.'
+  Star:
+    Name: '&6Efekt: &aGwiazda'
+    Material: NETHER_STAR
+    Enabled: true
+    Mini-Block:
+      Material: ENDER_CHEST
+    Mystery-Box-Quality-Block:
+      Material: NETHER_STAR
+    Lore:
+    - '&7Ustaw efekt otwerania'
+    - '&7skrzyni na &aGwiazda'
+  Crafting:
+    Name: '&6Efekt: &6Crafting'
+    Material: CRAFTING_TABLE
+    Enabled: true
+    Mini-Block:
+      Material: ENDER_CHEST
+    Mystery-Box-Quality-Block:
+      Material: CRAFTING_TABLE
+      Rotational-Angle:
+        X: 270
+        Y: 0
+        Z: 45
+    Lore:
+    - '&7Ustaw efekt otwerania'
+    - '&7skrzyni na &6Crafing'
+  Summer:
+    Name: '&6Efekt: &eWakacje'
+    Material: SUNFLOWER
+    Enabled: true
+    Mini-Block:
+      Material: head:5a5ab05ea254c32e3c48f3fdcf9fd9d77d3cba04e6b5ec2e68b3cbdcfac3fd
+    Mystery-Box-Quality-Block:
+      Material: SUNFLOWER
+    Lore:
+    - '&7Ustaw efekt otwerania'
+    - '&7skrzyni na &eWakacje'
+  Halloween:
+    Name: '&6Efekt: &cHallowen'
+    Material: JACK_O_LANTERN
+    Enabled: true
+    Mini-Block:
+      Material: JACK_O_LANTERN
+    Lore:
+    - '&7Ustaw efekt otwerania'
+    - '&7skrzyni na &cHallowen'
+  Holiday:
+    Name: '&6Efekt: &bŚwięta'
+    Material: SNOWBALL
+    Enabled: true
+    Mini-Block:
+      Material: head:f5612dc7b86d71afc1197301c15fd979e9f39e7b1f41d8f1ebdf8115576e2e
+    Mystery-Box-Quality-Block:
+      Material: SNOWBALL
+    Lore:
+    - '&7Ustaw efekt otwerania'
+    - '&7skrzyni na &bŚwięta'
