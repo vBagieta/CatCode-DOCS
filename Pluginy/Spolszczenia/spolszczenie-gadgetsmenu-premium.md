@@ -62,56 +62,36 @@ GUI-Menus:
         Lore:
         - '&7Ładowanie twoich skrzyń.'
         - '&7Otwórz ponownie menu Tajemniczych Skrzyń.'
-      Mystery-Box-Information:
-        Name: '&6Informacje'
-        Texture: http://textures.minecraft.net/texture/83d874eb8c4c697b3f832bd874426fdf6d21bae339f31711081fde59838386e1
-        Slot: 50
-        Loot-Contain-Rarity: true
-        Lore:
-        - '&7W &6Tajemniczych skrzyniach'
-        - '&7Znajdziesz wiele dodatków'
-        - '&6Tajemnicze skrzynie &7Zdoywasz'
-        - '&7Grająć na serwerze!'
-        - ''
-        - '&7Twoj ostatni znaleziony loot:'
-        - '&e1. &e{RECENT_LOOT_1}'
-        - ''
-        - '&ePosiadasz: &6{MYSTERY_BOXES} Tajemniczych skrzyń'
-        Material: head:83d874eb8c4c697b3f832bd874426fdf6d21bae339f31711081fde59838386e1
       Craft-Mystery-Boxes:
-        Name: '&6Kup tajemnicza skrzynie!'
+        Name: '&eKup tajemnicza skrzynie!'
         Texture: http://textures.minecraft.net/texture/fe35d96a6d6786fbc1cd232c3556f8a857bdeb278bd662ee387a9a3b1174e4a7
         Show: true
         Slot: 49
         Lore:
-        - '&ePosiadasz: &6{MYSTERY_DUST}x &dGrzybków'
-        - ''
-        - '&eNacisnij aby stworzyć skrzynie!'
-        Material: head:fe35d96a6d6786fbc1cd232c3556f8a857bdeb278bd662ee387a9a3b1174e4a7
+        - '&7Posiadasz &e{MYSTERY_DUST}x &7monet.'
+        Material: head:e52970e124153abd28b5d64003b8fd87999dbc7a5cde899961ee01ccd3d4ab98
       Gift-Inventory:
-        Name: '&6Prezenty'
+        Name: '&cPrezenty'
         Show: true
         Texture: http://textures.minecraft.net/texture/5e7981347b3cff63334002c914bf0420f4560c3abcd7e47bb2d0bbe3a92c25bb
         Slot: 48
         Lore:
-        - '&eWysylaj prezenty do swoich przyjaciol'
-        - '&ei otrzymuj unikalne nagrody!'
+        - '&7Wysylaj prezenty do swoich przyjaciol'
+        - '&7i otrzymuj unikalne nagrody!'
         - ''
-        - '&ePrezenty ktore zakupisz beda'
-        - '&eprzechowywane tutaj.'
         - ''
-        - '&ePrezenty Wyslane: &6{GIFT_SENT}'
-        - '&ePrezenty Otrzymane: &6{GIFT_RECEIVED}'
+        - '&7Prezenty Wyslane: &e{GIFT_SENT}'
+        - '&7Prezenty Otrzymane: &e{GIFT_RECEIVED}'
         - ''
-        - '&eNacisnij aby otworzyc menu prezentow!'
+        - '&cNacisnij aby otworzyc menu prezentow!'
         Material: head:d2ac1c51807e261c12c4f2adbad36b8b2c497c277f7223ec244cb4608c59c
       Animations:
-        Name: '&6Animacje'
-        Material: ENDER_PEARL
+        Name: '&6Efekty'
+        Material: head:48de339af63a229c9238d027e47f53eeb56141a419f51b35c31ea1494b435dd3
         Show: true
-        Slot: 53
+        Slot: 50
         Lore:
-        - '&7Wybierz animacje &6Tajemniczej skrzyni'
+        - '&7Wybierz efekt twojej skrzyni.'
       Open-Multiple-Boxes:
         Name: '&eOtworz Wiele Boxow'
         Material: NETHER_STAR
@@ -120,6 +100,25 @@ GUI-Menus:
         Lore:
         - '&eOtwiera kilka &6Tajemniczych skrzyń'
         - '&ew tym samym czasie!'
+      Mystery-Box-Information:
+        Name: '&aMystery Box Information'
+        Material: BOOK
+        Slot: 49
+        Loot-Contain-Rarity: true
+        Lore:
+        - '&bMystery Boxes &7contains almost'
+        - '&7any cosmetics items. To earn'
+        - '&bMystery Boxes&7, all you have to'
+        - '&7do is play on the server!'
+        - ''
+        - '&eYour 5 most recent items found are:'
+        - '&71. {RECENT_LOOT_1}'
+        - '&72. {RECENT_LOOT_2}'
+        - '&73. {RECENT_LOOT_3}'
+        - '&74. {RECENT_LOOT_4}'
+        - '&75. {RECENT_LOOT_5}'
+        - ''
+        - '&7Your have: &b{MYSTERY_BOXES} Mystery Boxes'
   Mystery-Box-Crafting-Menu:
     GUI-Name: Kup tajemnicze skrzynie
     Items:
@@ -252,19 +251,19 @@ GUI-Menus:
         Slot: 33
         Lore: ''
   Mystery-Vault-Animations-Menu:
-    GUI-Name: Animacje otwierania boxa
+    GUI-Name: Efekty otwierania skrzyń
     Items:
       Random-Mystery-Vault-Animation:
-        Name: '&6Losowa animacja'
-        Material: ENDER_PEARL
+        Name: '&6Losowy efekt'
+        Material: head:48de339af63a229c9238d027e47f53eeb56141a419f51b35c31ea1494b435dd3
         Show: true
-        Slot: 40
+        Slot: 41
         Lore:
         - '&7Nie umiesz wybrać'
         - '&7animacji skrzyni?'
         - '&7Już nie musisz się martwić!'
         - ''
-        - '&eStatus: &6{STATUS}'
+        - '&eStatus: &a{STATUS}'
   Open-Multiple-Boxes-Menu:
     GUI-Name: Open Multiple Boxes
     Items:
@@ -319,44 +318,44 @@ GUI-Menus:
     GUI-Name: Settings
     Items:
       Ignore-Cooldown:
-        Name: '&aUsuń cooldown'
+        Name: '&aIgnore Cooldown'
         Material: BARRIER
-        Show: false
+        Show: true
         Slot: 20
         Lore: ''
       Self-Morph-View:
-        Name: '&aWidzenie własnych przemian'
+        Name: '&aSelf Morph View'
         Material: ENDER_EYE
         Show: true
-        Slot: 22
+        Slot: 24
         Lore: ''
       Enabled:
-        Name: '&aWłączone'
+        Name: '&aEnabled'
         Material: LIME_WOOL
         Lore: ''
       Disabled:
-        Name: '&cWyłączone'
+        Name: '&cDisabled'
         Material: RED_WOOL
         Lore: ''
 Items:
   Go-Back:
     Name: '&ePowrót'
-    Material: ARROW
+    Material: head:816ea34a6a6ec5c051e6932f1c471b7012b298d38d179f1b487c413f51959cd4
     Show: true
     Slot: 39
     Lore: ''
   Previous-Page:
     Name: '&aPoprzednia strona'
-    Material: ARROW
+    Material: head:8652e2b936ca8026bd28651d7c9f2819d2e923697734d18dfdb13550f8fdad5f
     Slot: 39
     Lore:
-    - '&eStrona &6{PAGE}'
+    - '&eStrona {PAGE}'
   Next-Page:
     Name: '&aNastepna strona'
-    Material: ARROW
+    Material: head:2a3b8f681daad8bf436cae8da3fe8131f62a162ab81af639c3e0644aa6abac2f
     Slot: 41
     Lore:
-    - '&eStrona &6{PAGE}'
+    - '&eStrona {PAGE}'
   Already-Selected:
     Show-In-Lore: true
     Lore:
@@ -374,35 +373,24 @@ Items:
     - '&7Odblokowano: &c{HASPERMISSION}/{SIZE} &8({PERCENTAGE}%)'
     - ''
     - '&eNacisnij Aby Przegladac!'
-  Settings:
-    Name: '&6Ustawienia'
-    Material: COMPARATOR
-    Show: true
-    Lore:
-    - '&ePozwala na edycje roznych ustawien'
-    Slot: 53
   MainMenu-Item:
     Name: '&6Glowne Menu'
-    Material: TRAPPED_CHEST
+    Material: head:c2ed298858951b43d2448db5c656e7004eb91e3076e5fc88d24e529e8849e2c0
     Show: true
     Lore:
-    - '&eTajemniczego proszku: &6x{MYSTERY_DUST}'
-    - '&eTajemniczych skrzyńń: &6x{MYSTERY_BOXES}'
-    - ''
-    - '&eBaw sie dobrze razem z naszymi!'
-    - '&eprzedmiotami kosmetycznymi, mamy'
-    - '&enadzieje, ze jestes zadowolony z tego pododu!'
-    Slot: 49
+    - '&7Monety: &e{MYSTERY_DUST}x'
+    - '&7Tajemniczych skrzynie: &6x{MYSTERY_BOXES}'
+    Slot: 48
   Morph-Slimeball:
-    Name: '&6Aktywuj umiejetnosc morfowania'
+    Name: '&6Aktywuj umiejetnosc przemiany'
   Self-Morph-View:
-    Name: '&eWidzenie wlasnego morfa'
-    Material: ENDER_EYE
+    Name: '&eWidzenie wlasnej przemiany'
+    Material: head:6f89b150be9c4c5249f355f68ea0c4391300a9be1f260d750fc35a1817ad796e
     Show: true
     Lore:
     - '&7Status: {STATUS}'
     - ''
-    - '&eNacisnij aby przelaczyc tryb widzenia wlasnego morfa.'
+    - '&eNacisnij aby przelaczyc tryb widzenia przemiany'
     Slot: 50
   Rename-Pet:
     Name: '&eNazwij swojego zwierzaka'
@@ -430,21 +418,21 @@ Items:
   Enough-Mystery-Dust:
     Lore:
     - ''
-    - '&eNacisnij aby stworzyc za &6{COST}x &dGrzybków&e!'
+    - '&7Nacisnij aby kupić za &e{COST}x &7monet!'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Not-Enough-Mystery-Dust:
     Lore:
     - ''
-    - '&eNacisnij aby stworzyc za &6{COST}x &dGrzybków&e!'
+    - '&7Nacisnij aby kupić za &e{COST}x &7monet!'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_ENDERMAN_TELEPORT
   Enough-Mystery-Dust-To-Craft-Mystery-Box:
     Lore:
     - ''
-    - '&eKoszt: &6{COST}x &dGrzybków'
+    - '&7Koszt &e{COST}x &7monet!'
     - '&eNacisnij aby stworzyc!'
     Play-Sound:
       Enabled: true
@@ -452,15 +440,15 @@ Items:
   Not-Enough-Mystery-Dust-To-Craft-Mystery-Box:
     Lore:
     - ''
-    - '&cNacisnij aby stworzyc za &6{COST}x &dGrzybków&c!'
-    - '&cMusisz miec &6{COST}x &dGrzybków&c wiecej!'
+    - '&7Nacisnij aby stworzyc za &e{COST}x &7monet!'
+    - '&cMusisz miec {COST}x &emonet&c wiecej!'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_ENDERMAN_TELEPORT
   Item-Unpurchasable:
     Lore:
     - ''
-    - '&cNie mozna stworzyc za pomoca &dGrzybków&c.'
+    - '&cNie możesz tego kupić!.'
     Play-Sound:
       Enabled: true
       Sound: ENTITY_ENDERMAN_TELEPORT
@@ -502,10 +490,18 @@ Items:
     Lore:
     - '&eZałóż wszytkie częsci stroju'
     - '&ejeżeli tylko masz je odblokowane!'
+  Settings:
+    Name: '&eSettings'
+    Material: COMPARATOR
+    Show: false
+    Slot: 53
+    Lore:
+    - '&7Allow you to edit and control'
+    - '&7various personal settings.'
 Reset-Buttons:
   Reset-Cosmetics:
     Name: '&cResetuj kosmetyki'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 50
     Lore: ''
@@ -514,7 +510,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Hat:
     Name: '&cResetuj czapki'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -523,7 +519,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Animated-Hat:
     Name: '&cResetuj animowane czapki'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -532,7 +528,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Particle:
     Name: '&cResetuj efekty'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -541,7 +537,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Suit:
     Name: '&cResetuj przebrania'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -550,7 +546,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Gadget:
     Name: '&cResetuj gadżety'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -559,7 +555,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Pet:
     Name: '&cResetuj zwierzaki'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -568,7 +564,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Miniature:
     Name: '&cResetuj miniatórki'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -577,7 +573,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Morph:
     Name: '&cResetuj przemiany'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -586,7 +582,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Banner:
     Name: '&cResetuj banery'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -595,7 +591,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Emote:
     Name: '&cResetuj emotki'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -604,7 +600,7 @@ Reset-Buttons:
       Sound: ENTITY_EXPERIENCE_ORB_PICKUP
   Reset-Cloak:
     Name: '&cResetuj płaszcze'
-    Material: RED_STAINED_GLASS
+    Material: head:b1f868761a5c9139da1fec6726e1655929429a43ab972c8118ba26b9255e7c
     Show: true
     Slot: 40
     Lore: ''
@@ -758,48 +754,41 @@ Remove-Helmet-To-Equip-Emote: '{PREFIX}&cMusisz usunac swoj helm aby zalozyc emo
 Remove-Armor-To-Equip-Suit: '{PREFIX}&cMusisz usunac swoja zbroje aby zalozyc stroj!'
 Failed-To-Purchase: '&cWystapil blad przy kupowaniu przedmiotu!'
 Item-Unpurchasable: '{PREFIX}&cNie mozesz kupic tego przedmiotu!'
-Player-Not-Enough-MysteryDust: '{PREFIX}&cMozesz miec tylko &6{MYSTERY_DUST}x &cMystery
-  Dust!'
+Player-Not-Enough-MysteryDust: '{PREFIX}&cMozesz miec tylko &6{MYSTERY_DUST}x &cMonet!'
 Added-MysteryDust: '{PREFIX}&eDodales &6{MYSTERY_DUST}x &eMystery Dust graczu &6{PLAYER}&e.'
-Added-MysteryDust-To-All-Players: '{PREFIX}&eDodales &6{MYSTERY_DUST}x &eMystery Dust
-  dla graczy &6{ONLINE}&e.'
-Check-MysteryDust: '&e{PLAYER} posiada &6{MYSTERY_DUST}x &eMystery Dust.'
-Received-MysteryDust: '{PREFIX}&eOtrzymales &6{MYSTERY_DUST}x &eMystery Dust od &6{PLAYER}&e.'
-Removed-MysteryDust: '{PREFIX}&eUsunales &6{MYSTERY_DUST}x &eMystery Dust graczowi
-  &6{PLAYER}&e.'
-Sent-MysteryDust: '{PREFIX}&eWyslales &6{MYSTERY_DUST}x &eMystery Dust do &6{PLAYER}&e.'
-Set-MysteryDust: '{PREFIX}&eUstawiles Mystery Dust gracza &6{PLAYER} na &6{MYSTERY_DUST}&e.'
-Only-Have-MysteryDust: '{PREFIX}&6{PLAYER} &cposiada tylko &6{MYSTERY_DUST}x &cMystery
-  Dust!'
-Removed-MysteryDust-From-Player: '{PREFIX}&6{MYSTERY_DUST}x 0&eMystery zostalo usuniete
+Added-MysteryDust-To-All-Players: '{PREFIX}&eDodales &6{MYSTERY_DUST}x &eMonet dla
+  graczy &6{ONLINE}&e.'
+Check-MysteryDust: '&e{PLAYER} posiada &6{MYSTERY_DUST}x &eMonet.'
+Received-MysteryDust: '{PREFIX}&eOtrzymales &6{MYSTERY_DUST}x &eMonet.'
+Removed-MysteryDust: '{PREFIX}&eUsunales &6{MYSTERY_DUST}x &eMonet Dust graczowi &6{PLAYER}&e.'
+Sent-MysteryDust: '{PREFIX}&eWyslales &6{MYSTERY_DUST}x &eMonet do &6{PLAYER}&e.'
+Set-MysteryDust: '{PREFIX}&eUstawiles Monety gracza &6{PLAYER} na &6{MYSTERY_DUST}&e.'
+Only-Have-MysteryDust: '{PREFIX}&6{PLAYER} &cposiada tylko &6{MYSTERY_DUST}x &cMonett!'
+Removed-MysteryDust-From-Player: '{PREFIX}&6{MYSTERY_DUST}x 0&eMonet zostalo usuniete
   z twojego konta.'
-Set-Player-MysteryDust: '{PREFIX}&eTwoj Mystery Dust zostal ustawiony na &6{MYSTERY_DUST}&e.'
-Not-Enough-MysteryDust-To-Purchase: '&cNie masz wystarczająco Tajemniczego proszku!'
-Pay-MysteryDust-To-Self: '{PREFIX}&cNie mozesz zaplacic Mystery Dust samemu sobie!'
-Gave-Mystery-Boxes: '{PREFIX}&eDales &6{MYSTERY_BOXES}x Mystery Box &egraczu &6{PLAYER}&e.'
-Gave-Mystery-Boxes-To-All-Players: '{PREFIX}&eDales &6{MYSTERY_BOXES}x Mystery Box
-  &etdla graczy &6{ONLINE}&e.'
-Received-Mystery-Boxes: '{PREFIX}&eOtrzymales &6{MYSTERY_BOXES}x Mystery Box &eod
-  &6{PLAYER}&e.'
-Added-Mystery-Vault: '{PREFIX}&aStworzono Tajemnicza skrzynia &f''{NAME}''&a.'
+Set-Player-MysteryDust: '{PREFIX}&eTwoje moenty zostal ustawiony na &6{MYSTERY_DUST}&e.'
+Not-Enough-MysteryDust-To-Purchase: '&cNie masz wystarczająco Monet!'
+Pay-MysteryDust-To-Self: '{PREFIX}&cNie mozesz zaplacicMonet samemu sobie!'
+Gave-Mystery-Boxes: '{PREFIX}&eDales &6{MYSTERY_BOXES}x Skrzyń &egraczu &6{PLAYER}&e.'
+Gave-Mystery-Boxes-To-All-Players: '{PREFIX}&eDales &6{MYSTERY_BOXES}x Skrzyń &etdla
+  graczy &6{ONLINE}&e.'
+Received-Mystery-Boxes: '{PREFIX}&eOtrzymales &6{MYSTERY_BOXES}x Skrzyń &eod &6{PLAYER}&e.'
+Added-Mystery-Vault: '{PREFIX}&aKupiono Tajemnicza skrzynia &f''{NAME}''&a.'
 Redefined-Mystery-Vault: '{PREFIX}&aLokacja Tajemnicza skrzynia &f''{NAME}'' &azostala
   na nowo zdefiniowana.'
 Mystery-Vault-Same-Location: '{PREFIX}&cJuz stworzyles Tajemnicza skrzynia w tym miejscu!'
 Mystery-Vault-Is-Exists: '{PREFIX}&cTajemnicza skrzynia o tej nazwie juz istnieje!'
-Do-Not-Have-Any-Mystery-Vault: '{PREFIX}&cNie posiadasz zadnych Tajemnicza skrzyniaow
-  stworzonych!'
+Do-Not-Have-Any-Mystery-Vault: '{PREFIX}&cNie posiadasz tajemniczych skrzyń!'
 No-Mystery-Vault-Nearby: '{PREFIX}&cBrak Tajemnicza skrzyniaow w podanym promieniu!'
 Removed-Mystery-Vault: '{PREFIX}&aUsunieto Tajemnicza skrzynia &f''{NAME}''&a.'
 Mystery-Vault-Not-Found: '{PREFIX}&cNie znaleziono zadnego Tajemnicza skrzynia w tym
   miejscu!'
 Mystery-Vault-Not-Found-With-Name: '{PREFIX}&cNie znaleziono zadnego Tajemnicza skrzynia
-  o nazwie &f''{NAME}''&c!'
-Teleport-To-Mystery-Vault: '{PREFIX}&eZostales przeteleportowany do Mystery Vualt
-  o nazwie &f''{NAME}''&e.'
-Open-Mystery-Vault-At-A-Time: '{PREFIX}&cTylko jeden gracz moze uzywac Tajemnicza
-  skrzyniaa w tym samym czasie!'
-Can-Only-Open-One-Mystery-Box: '{PREFIX}&cPoczekaj az pierwszy Mystery Box zostanie
-  otwarty!'
+  &f''{NAME}''&c!'
+Teleport-To-Mystery-Vault: '{PREFIX}&eZostales przeteleportowany do Tajemniczej skrzyni'
+Open-Mystery-Vault-At-A-Time: '{PREFIX}&cPoczekaj jak pierwszy gracz kupi skrzynie!'
+Can-Only-Open-One-Mystery-Box: '{PREFIX}&cPoczekaj az pierwsza Tajmenicza skrzynia
+  zostanie otwarta!'
 Purchase-Cancelled: '{PREFIX}&cZakup Anulowany!'
 Mystery-Boxes-Are-Disabled: '{PREFIX}&cMystery Boxy sa wylaczone!'
 Crafted-Mystery-Box: '&eKupiłeś &6{NAME}&e.'
@@ -809,12 +798,12 @@ Send-A-Gift-To-Player: '&aWyslales prezent zawierajacy &65x Tajemniczych skrzyń
   &r{PLAYER}&a!'
 Received-Gift: '&aOtrzymales Prezent od &r{PLAYER}&a! Odwiedz &6Tajemnicza skrzynia&a,
   zeby go otworzyc!'
-Mystery-Box-Was-Expired: '{PREFIX}&cTen Mystery Box jest przedawniony. Prosze otworz
-  swoj Mystery Box zanim sie przedawni.'
-Check-Mystery-Boxes: '&e{PLAYER} posiada &6{MYSTERY_BOXES}x &eMystery Box.'
-Select-Mystery-Vault-Animation: '&eWybrales &6{ANIMATION} &edla swojej animacji TAjemniczej
-  skrzyni.'
-Not-Enough-Mystery-Boxes: '&cNie posiadasz wystarczajaco duzo Mystery Boxow.'
+Mystery-Box-Was-Expired: '{PREFIX}&cTa Tajemnicza skrzynia jest przedawniony. Prosze
+  otworz swoj Mystery Box zanim sie przedawni.'
+Check-Mystery-Boxes: '&e{PLAYER} posiada &6{MYSTERY_BOXES}x &eTajemniczycn skrzyń'
+Select-Mystery-Vault-Animation: '&7Wybrales &a{ANIMATION} &7dla swojej Tajmeniczej
+  skrzyni'
+Not-Enough-Mystery-Boxes: '&cNie posiadasz wystarczajaco duzo Tajemniczych skrzyń.'
 Counting-Mystery-Boxes: '&cLiczenie Mystery Boxow...'
 Emote-Is-Activated: '{PREFIX}&cEmotka jest juz aktywna!'
 Gadget-Is-Activated: '{PREFIX}&cGadzet {GADGET} jest juz aktywny!'
@@ -831,14 +820,12 @@ Timed-Out: '&cCzas minal, nazwa nie zostala zmieniona!'
 Cancel-Rename-Pet: '&cAnulowano nazywanie zwierzatka.'
 Rocket-Countdown: '&c&lRAKIETA WYSTARTUJE ZA {TIMER} {SECOND}!'
 Rocket-Lift-Off: '&a&lSTART!'
-Enabled-Self-Morph-View: '{PREFIX}&eWlaczyles widok wlasnych morfow!'
-Disabled-Self-Morph-View: '{PREFIX}&eWylaczyles widok wlasnych morfow!'
+Enabled-Self-Morph-View: '{PREFIX}&eWlaczyles widok wlasnych przemian'
+Disabled-Self-Morph-View: '{PREFIX}&eWylaczyles widok wlasnych przemian!'
 Enabled-Bypass-Cooldown: '{PREFIX}&eWlaczyles ignorowanie czasu oczekiwania.'
 Disabled-Bypass-Cooldown: '{PREFIX}&eWylaczyles ignorowanie czasu oczekiwania.'
-Enabled-Random-Mystery-Vault-Animation: '{PREFIX}&aWlaczyles &6Losowa Animacje &edla
-  swojego Tajemnicza skrzyniaa.'
-Disabled-Random-Mystery-Vault-Animation: '{PREFIX}&cWylaczyles &6Losowa Animacje &edla
-  swojego Tajemnicza skrzyniaa.'
+Enabled-Random-Mystery-Vault-Animation: '&eUstawiles losowa animacje'
+Disabled-Random-Mystery-Vault-Animation: '&cWylaczyles losowa aniamcje'
 Disabled-Command-While-Cosmetics-Activated: '{PREFIX}&cNie mozesz uzyc tej komendy
   kiedy kosmetyki sa aktywowane!'
 Invalid-Type: '{PREFIX}&cTen {TYPE}, ktorego uzyles jest nieprawidlowy!'
@@ -853,12 +840,12 @@ Already-Activate-One: '{PREFIX}&cJuz posiadasz aktywowany gadzet {GADGET}! Sprob
   ponownie pozniej.'
 Gadget-Activated-In-Same-Area: '{PREFIX}&cJakis gadzet jest juz aktywowany w tej strefie!
   Sproboj gdzie indziej.'
-Enabled: Włączone
+Enabled: '&cWłączone'
 Disabled: '&cWyłączone'
 Cooldown-Bypass: Cooldown Bypass
 Self-Morph-View: Self Morph View
-Unequip-Cosmetics-Due-To-Low-TPS: '{PREFIX}&cYour cosmetics has been unequipped due
-  to server lag.'
+Unequip-Cosmetics-Due-To-Low-TPS: '&cKostemtyki zostaly wylaczone przez niskie TPSy
+  serwera.'
 Disable-Usage-Of-Cosmetics: '{PREFIX}&cSorry for the inconvenience, all cosmetics
   have been disabled due to server lag.'
 Not-Allow-Cosmetics-In-Region: '{PREFIX}&cYou''re not allowed to equip cosmetics in
@@ -889,7 +876,7 @@ Hour: Godzina
 Hours: Godziny
 Day: Dzien
 Days: Dni
-Loading: '&cŁadowanie'
+Loading: '&aŁadowanie'
 Miniatures-Are-Disabled: '{PREFIX}&cCosmetic miniatures are disabled!'
 Equip-Miniature-For-Player: '&eSpawned {MINIATURE} for &6{PLAYER}.'
 Reset-Miniature: '&aDespawned your miniature.'
