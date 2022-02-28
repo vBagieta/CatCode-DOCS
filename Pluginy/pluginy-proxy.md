@@ -40,7 +40,7 @@ data:
   username: ROOT #Nazwa użytkownika
   password: 'HasloMaslo' #Haslo logowania bazy danych
   ```
-  Sposób zapisywania `DB` oraz `SQLite` jest lokalny, nie można go użyc w tworzeniu sieci.
+  Sposób zapisywania `h2` oraz `SQLite` jest lokalny, nie można go użyc w tworzeniu sieci.
 
 ---
   
