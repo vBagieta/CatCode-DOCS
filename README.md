@@ -28,7 +28,7 @@ Nasz oficjalny serwer [**Discord**](https://discord.gg/AEpaGYdTEk).
 
 - [Silnik na Proxy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-proxy.md)
 
-- [Silnik do gry](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
+- [Vanilla i forki](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik.md)
 
 - [Silnik na Modyfikacje oraz Pluginy](https://github.com/vBagieta/Minecraft/blob/main/Silniki/silnik-mody.md)
 
