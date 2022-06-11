@@ -1,3 +1,4 @@
+
 # CatCode Project - Poradnik Minecraft
 
 Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz rozwiązanie na twój problem. Wystarczy się rozejrzec!
@@ -39,6 +40,8 @@ Nasz oficjalny serwer [**Discord**](https://discord.gg/AEpaGYdTEk).
 # Poradniki
 
 - [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
+
+- Kompletny poradnik dotyczący serwera Proxy 
 
 - [Opymalizacja serwera](https://github.com/vBagieta/CatCode-DOCS/blob/main/Poradniki/optymalizacja.md)
 
