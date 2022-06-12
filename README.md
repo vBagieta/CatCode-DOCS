@@ -8,13 +8,9 @@ Wpadnij na nasz serwer [**Discord**](https://discord.gg/apgRybYahM)! Pomożemy C
 
 # Pluginy
 
-- [Pluginy na BungeeCorda i forki](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-proxy.md)
+- [Pluginy na Proxy](https://github.com/vBagieta/CatCode-DOCS/blob/main/Pluginy/pluginy-proxy-hub.md)
 
-- [Pluginy na Velocity](https://github.com/vBagieta/CatCode-DOCS/blob/main/Pluginy/pluginy-velocity.md)
-
-- [Pluginy na Lobby](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/plugin-lobby.md)
-
-- [Pluginy, które warto poznać](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-wart-poznac.md)
+- [Pluginy na serwery Spigot & Forki](https://github.com/vBagieta/CatCode-DOCS/blob/main/Pluginy/pluginy-spigot.md)
 
 - [Pluginy na ochronę serwera](https://github.com/vBagieta/Minecraft/blob/main/Pluginy/pluginy-ochrona.md)
 
