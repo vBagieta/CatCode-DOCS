@@ -41,7 +41,7 @@ Nasz oficjalny serwer [**Discord**](https://discord.gg/AEpaGYdTEk).
 
 - [Tworzenie serwera na VPS/DEDYKU](https://github.com/Jakubk15/poradnik-minecraft)
 
-- Kompletny poradnik dotyczący serwera Proxy 
+- [Kompletny poradnik dotyczący serwera Proxy](https://github.com/vBagieta/CatCode-DOCS/blob/main/Poradniki/proxy.md)
 
 - [Opymalizacja serwera](https://github.com/vBagieta/CatCode-DOCS/blob/main/Poradniki/optymalizacja.md)
 
