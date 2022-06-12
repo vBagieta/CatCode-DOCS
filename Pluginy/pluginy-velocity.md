@@ -6,7 +6,7 @@
 
 ### Pluginy:
 
-—-
+---
 
 # LimboAPI
  Download [here](https://forums.papermc.io/threads/limboapi-an-api-which-provides-virtual-servers-features.329/)
