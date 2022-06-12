@@ -3,8 +3,8 @@
 
 Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To swietnie trafiłes, u nas znajdziesz rozwiązanie na twój problem. Wystarczy się rozejrzec!
 
-**Uwaga!** Projekt aktualnie jest rozwijany! Nie długo całość zostanie ukończona!
-Nasz oficjalny serwer [**Discord**](https://discord.gg/AEpaGYdTEk).
+## Reklama
+Wpadnij na nasz serwer [**Discord**](https://discord.gg/apgRybYahM)!
 
 # Pluginy
 
