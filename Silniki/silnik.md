@@ -1,4 +1,4 @@
-# Silniki do gry
+# Spigot i jego forki
 
 Silników w Minecraftcie jest dużo. Jeżeli nie wiesz który wybrać na swój serwer, zobacz nasze propozycje poniżej.
 
