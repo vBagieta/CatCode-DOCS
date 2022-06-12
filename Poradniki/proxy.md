@@ -1,4 +1,4 @@
-# Poradnik konfiguracji serwera Proxy (
+# Poradnik konfiguracji serwera Proxy
 
 Poradnik jest we wczesnym pisaniu, niedługo dodam więcej szczegółów.
 # Instalacja
