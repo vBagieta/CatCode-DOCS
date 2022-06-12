@@ -1,5 +1,6 @@
-# Poradnik konfiguracji serwera Proxy (Waterfall)
+# Poradnik konfiguracji serwera Proxy (
 
+Poradnik jest we wczesnym pisaniu, niedługo dodam więcej szczegółów.
 # Instalacja
 
 Udaj się na stronę [PaperMC](https://papermc.io/downloads) i pobierz najnowszą wersje silnika Waterfall.
