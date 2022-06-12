@@ -53,6 +53,6 @@ Wpadnij na nasz serwer [**Discord**](https://discord.gg/apgRybYahM)! Pomożemy C
 
 # Team
 
-- [vBagieta](https://github.com/vBagieta/) DC: vBagieta#0786
+- [vBagieta](https://github.com/vBagieta/) DC: `vBagieta#0786`
 
-- [Jakubk15](https://github.com/Jakubk15/) DC: Jakubk15#0524
+- [Jakubk15](https://github.com/Jakubk15/) DC: `Jakubk15#0524`
