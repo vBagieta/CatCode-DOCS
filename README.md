@@ -1,7 +1,7 @@
 
 # CatCode Project - Poradnik Minecraft
 
-Potrzebujesz pomocy z serwera minecraft? Albo nie wiesz który silnik będzie najlepszy na twój tryb? To świetnie trafiłes, u nas znajdziesz rozwiązanie na twój problem. Wystarczy się rozejrzec!
+# Aktualnie trwa proces migracji do https://cat-code.gitbook.io/wiki/.
 
 ## Reklama
 Wpadnij na nasz serwer [**Discord**](https://discord.gg/apgRybYahM)! Pomożemy Ci na nim w prowadzeniu twojego serwera!
