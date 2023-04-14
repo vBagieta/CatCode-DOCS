@@ -1,6 +1,6 @@
-#SILNIKI PROXY
+# SILNIKI PROXY - Wprowadzenie 
 
-Proxy - serwer łączący wiele inncyh w jedną sieć. Najprostszy podział:
+Serwer proxy to silnik który ma calkiem inne zastosowanie niz znany nam np. Paper. Ma on za zadanie "spinać" nam serwery gier tworząc sieć serwerów. 
 
 Forki BungeeCorda:
 
