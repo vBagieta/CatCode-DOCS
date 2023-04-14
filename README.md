@@ -1,10 +1,8 @@
 
-## CatCode Project - Poradnik Minecraft
+# CatCode Project - Poradnik Minecraft
 
-## REAKTYWACJA [14.04.2023r.]
+# Silniki [MINECRAFT/PROXY]
 
-## Silniki [MINECRAFT/PROXY]
+# Pluginy
 
-## Pluginy
-
-## Hostingi
+# Hostingi
