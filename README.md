@@ -1,9 +1,7 @@
 
 # CatCode Project - Poradnik Minecraft
 
-# Aktualnie trwa proces migracji do https://hycode.gitbook.io/.
-
-# Discord: https://discord.gg/xrbdScjSdB 
+# REAKTYWACJA [14.04.2023r.]
 
 
 # Pluginy
