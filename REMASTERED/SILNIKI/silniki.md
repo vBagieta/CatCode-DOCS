@@ -10,7 +10,8 @@ Waterfall - w tym momencie najbardziej popularny fork BungeeCorda wspierany prze
 
 
 
-[Velocity](https://github.com/vBagieta/CatCode/blob/main/REMASTERED/SILNIKI/velocity.md) **klik**
+Velocity - Jest to serwer Proxy napisany na nowo przez twórców Waterfalla, jest on znacznie wydajniejszy od niego, a w połączeniu z pewnymi pluginami staje sie on idealnym wyborem jeżeli zależy nam na darmowej i bardzo wydajnej ochrony przed botami.
+
 
 Warto uważać na płatne silniki typu Aegis który nie jest zbytnio wydajny, może być niebezpieczny, a kod źródłowy nie jest w 100% autorski.
 
