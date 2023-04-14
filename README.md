@@ -3,7 +3,7 @@
 
 # Silniki
 
-[Proxy]()
+[Proxy](https://github.com/vBagieta/CatCode/blob/main/REMASTERED/SILNIKI/silniki.md)
 
 [Minecraft]()
 
