@@ -1,7 +1,11 @@
 
 # CatCode Project - Poradnik Minecraft
 
-# Silniki [MINECRAFT/PROXY]
+# Silniki
+
+[Proxy]()
+
+[Minecraft]()
 
 # Pluginy
 
